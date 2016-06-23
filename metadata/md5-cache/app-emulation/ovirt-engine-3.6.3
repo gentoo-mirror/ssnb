@@ -1,0 +1,15 @@
+DEFINED_PHASES=postinst pretend unpack
+DEPEND=>=virtual/jdk-1.7 app-arch/rpm >=app-arch/rpm2targz-9.0.0.3g
+DESCRIPTION=oVirt Engine
+EAPI=5
+HOMEPAGE=http://www.ovirt.org
+IUSE=+system-jars
+KEYWORDS=~x86 ~amd64
+LICENSE=Apache-2.0
+RDEPEND=>=virtual/jre-1.7 app-emulation/ovirt-wildfly-bin app-misc/mime-types dev-db/postgresql dev-lang/python-exec dev-libs/libxml2[python] dev-libs/openssl dev-python/cheetah dev-python/m2crypto dev-python/psycopg dev-python/python-daemon dev-python/websockify net-dns/bind-tools sys-libs/cracklib[python] dev-python/numpy www-apps/novnc www-apps/patternfly:1 www-apps/spice-html5 www-servers/apache[apache2_modules_headers,apache2_modules_proxy_ajp,ssl]
+RESTRICT=mirror
+SLOT=0
+SRC_URI=http://resources.ovirt.org/pub/ovirt-3.6/rpm/el7Server/SRPMS/ovirt-engine-3.6.3.4-1.el7.centos.src.rpm
+_eclass_exported_funcs=pkg_pretend:- pkg_postinst:- src_unpack:-
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	rpm	3e120fdd74b358f9fb42b825a6558f61	toolchain-funcs	c9d9187f4caa4026a0ceddd8dfceb3c1	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=31d6286bccf3263b6e1f75c7f645524f

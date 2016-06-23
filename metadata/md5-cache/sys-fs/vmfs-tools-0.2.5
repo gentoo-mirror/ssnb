@@ -1,0 +1,14 @@
+DEFINED_PHASES=prepare
+DEPEND=sys-apps/util-linux fuse? ( sys-fs/fuse ) app-text/asciidoc app-text/docbook-xsl-stylesheets dev-libs/libxslt
+DESCRIPTION=Tools for vmfs
+EAPI=5
+HOMEPAGE=http://glandium.org/projects/vmfs-tools/
+IUSE=+fuse
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2+
+RDEPEND=sys-apps/util-linux fuse? ( sys-fs/fuse )
+SLOT=0
+SRC_URI=http://glandium.org/projects/vmfs-tools/vmfs-tools-0.2.5.tar.gz
+_eclass_exported_funcs=src_prepare:-
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	c9d9187f4caa4026a0ceddd8dfceb3c1
+_md5_=a95db0bf495aed48647246e596da161c

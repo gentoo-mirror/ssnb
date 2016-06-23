@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install unpack
+DESCRIPTION=Partition cloning tool
+EAPI=4
+HOMEPAGE=http://partclone.org
+IUSE=btrfs reiserfs reiser4 hfs fat minix ntfs jfs static vmfs xfs
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=sys-fs/e2fsprogs btrfs? ( sys-fs/btrfs-progs ) fat? ( sys-fs/dosfstools ) ntfs? ( sys-fs/ntfs3g ) hfs? ( sys-fs/hfsutils ) jfs? ( sys-fs/jfsutils ) reiserfs? ( sys-fs/progsreiserfs ) reiser4? ( sys-fs/reiser4progs ) xfs? ( >=sys-fs/xfsprogs-3.1.11-r1 ) static? ( sys-fs/e2fsprogs[static-libs] sys-libs/e2fsprogs-libs[static-libs] sys-fs/xfsprogs[static-libs] sys-libs/ncurses[static-libs] sys-fs/ntfs3g[static-libs] )
+SLOT=0
+SRC_URI=http://sourceforge.net/projects/partclone/files/stable/0.2.69/partclone_0.2.69.orig.tar.gz/download -> partclone-0.2.69.tar.gz
+_eclass_exported_funcs=src_unpack:- src_compile:- src_install:-
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	c9d9187f4caa4026a0ceddd8dfceb3c1
+_md5_=47dd39293263e3eebf0fc68c59ed270b
