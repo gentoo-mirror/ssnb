@@ -5,7 +5,8 @@ dev-embedded/arduino 1.6.8 1.6.9: An open-source AVR electronics prototyping pla
 dev-embedded/arduino-ide 1.6.8 1.6.9: An open-source AVR electronics prototyping platform
 dev-embedded/arduino-libs 1.6.8 1.6.9: An open-source AVR electronics prototyping platform
 dev-util/eclipse-sdk-bin 4.5.2: Eclipse SDK
-dev-util/idea-community 15.0.3.143.1821.5: IntelliJ IDEA is an intelligent Java IDE (Community Edition)
+dev-util/idea-community 15.0.3.143.1821.5 2016.2.162.1121.32: A complete toolset for web, mobile and enterprise development
+dev-util/idea-ultimate 2016.2.162.1121.32: A complete toolset for web, mobile and enterprise development
 dev-util/webstorm 11.0.3: Most Intelligent WebStorm IDE for develop on js html css, 11 EAP version
 dev-util/zrep 1.5.5 9999: ZFS based replication and failover solution
 net-misc/axel 2.4-r3: Light Unix download accelerator
