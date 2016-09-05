@@ -7,7 +7,7 @@ dev-embedded/arduino 1.6.8 1.6.9: An open-source AVR electronics prototyping pla
 dev-embedded/arduino-ide 1.6.8 1.6.9: An open-source AVR electronics prototyping platform
 dev-embedded/arduino-libs 1.6.8 1.6.9: An open-source AVR electronics prototyping platform
 dev-util/clion 2016.2: The intelligent cross-platform C/C++ IDE
-dev-util/eclipse-sdk-bin 4.5.2: Eclipse SDK
+dev-util/eclipse-sdk-bin 4.5.2 4.6.0: Eclipse SDK
 dev-util/idea-community 15.0.3.143.1821.5 2016.2.162.1121.32: A complete toolset for web, mobile and enterprise development
 dev-util/idea-ultimate 2016.2.1.162.1447.26 2016.2.3.162.1812.17 2016.2.162.1121.32: A complete toolset for web, mobile and enterprise development
 dev-util/pycharm-community 2016.2: Intelligent Python IDE with unique code assistance and analysis
