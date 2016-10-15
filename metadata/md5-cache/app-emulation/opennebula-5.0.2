@@ -1,0 +1,16 @@
+DEFINED_PHASES=compile configure install postinst prepare setup test unpack
+DEPEND=>=dev-libs/xmlrpc-c-1.18.02[abyss,cxx,threads] dev-lang/ruby extras? ( dev-libs/openssl dev-ruby/libxml net-misc/curl dev-libs/libxslt dev-libs/expat dev-libs/log4cpp ) mysql? ( virtual/mysql ) dev-db/sqlite net-misc/openssh || ( app-cdr/cdrkit app-cdr/cdrtools ) sqlite? ( dev-ruby/sqlite3 ) qemu? ( app-emulation/libvirt[libvirtd,qemu] ) xen? ( app-emulation/xen-tools ) >=dev-util/scons-1.2.0-r1 dev-ruby/nokogiri ruby_targets_ruby20? ( dev-lang/ruby:2.0 ) ruby_targets_ruby21? ( dev-lang/ruby:2.1 ) virtual/pkgconfig
+DESCRIPTION=OpenNebula Virtual Infrastructure Engine
+EAPI=5
+HOMEPAGE=http://www.opennebula.org/
+IUSE=qemu +mysql xen sqlite +extras systemd elibc_FreeBSD ruby_targets_ruby20 ruby_targets_ruby21
+KEYWORDS=~amd64
+LICENSE=Apache-2.0
+RDEPEND=>=dev-libs/xmlrpc-c-1.18.02[abyss,cxx,threads] dev-lang/ruby extras? ( dev-libs/openssl dev-ruby/libxml net-misc/curl dev-libs/libxslt dev-libs/expat dev-libs/log4cpp ) mysql? ( virtual/mysql ) dev-db/sqlite net-misc/openssh || ( app-cdr/cdrkit app-cdr/cdrtools ) sqlite? ( dev-ruby/sqlite3 ) qemu? ( app-emulation/libvirt[libvirtd,qemu] ) xen? ( app-emulation/xen-tools ) ruby_targets_ruby20? ( dev-lang/ruby:2.0 ) ruby_targets_ruby21? ( dev-lang/ruby:2.1 )
+REQUIRED_USE=|| ( ruby_targets_ruby20 ruby_targets_ruby21 )
+RESTRICT=test
+SLOT=0
+SRC_URI=http://downloads.opennebula.org/packages/opennebula-5.0.2/opennebula-5.0.2.tar.gz
+_eclass_exported_funcs=pkg_postinst:- pkg_setup:- src_unpack:- src_prepare:- src_configure:- src_compile:- src_test:ruby-ng src_install:-
+_eclasses_=eutils	b83a2420b796f7c6eff682679d08fe25	java-utils-2	9a25f292ff66f8c2c00100ac0b15c54f	multilib	165fc17c38d1b11dac2008280dab6e80	ruby-ng	3b6431b487e69b5070a45ea20d1c4c6c	ruby-utils	2f896785ed65442d7e84ab5f5eef3bd3	systemd	5b6ca8b2fc1307ca593223f327342c96	toolchain-funcs	6198c04daba0e1307bd844df7d37f423	user	80aaa71614ced86f02ee1a513821dc87	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=ee2222393ecb384226f83c143e998f47
