@@ -9,6 +9,7 @@ app-forensics/regviewer 0.1: RegViewer is GTK 2.2 based GUI Windows registry fil
 dev-embedded/arduino 1.6.8 1.6.9: An open-source AVR electronics prototyping platform
 dev-embedded/arduino-ide 1.6.8 1.6.9: An open-source AVR electronics prototyping platform
 dev-embedded/arduino-libs 1.6.8 1.6.9: An open-source AVR electronics prototyping platform
+dev-java/nexus-oss-bin 3.1.0: Maven Repository Manager
 dev-ruby/kgio 2.10.0: Mon-blocking I/O methods for Ruby without raising exceptions
 dev-ruby/raindrops 0.17.0: A real-time stats toolkit to show statistics for Rack HTTP servers
 dev-ruby/rubygems-update 2.6.8: This is the MySQL API module for Ruby
