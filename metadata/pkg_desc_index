@@ -16,7 +16,7 @@ dev-ruby/rubygems-update 2.6.8: This is the MySQL API module for Ruby
 dev-ruby/sequel 4.39.0: A lightweight database toolkit for Ruby
 dev-util/clion 2016.2 2016.2.2 2016.2.3 2016.3.0: The intelligent cross-platform C/C++ IDE
 dev-util/eclipse-sdk-bin 4.5.2 4.6.1: Eclipse SDK
-dev-util/idea-community 15.0.6.143.2370.31 2016.3.0.163.7743.44 2016.3.1.163.9166.29: A complete toolset for web, mobile and enterprise development
+dev-util/idea-community 15.0.6.143.2370.31 2016.3.0.163.7743.44 2016.3.2.163.10154.41: A complete toolset for web, mobile and enterprise development
 dev-util/idea-ultimate 2016.2.1.162.1447.26 2016.2.3.162.1812.17 2016.2.4.162.2032.8 2016.2.5.162.2228.15 2016.2.162.1121.32 2016.3.0.163.7743.44 2016.3.2.163.10154.41: A complete toolset for web, mobile and enterprise development
 dev-util/pycharm-community 2016.3.0: Intelligent Python IDE with unique code assistance and analysis
 dev-util/pycharm-professional 2016.2 2016.2.3 2016.3.0: Intelligent Python IDE with unique code assistance and analysis
