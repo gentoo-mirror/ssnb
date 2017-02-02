@@ -6,6 +6,7 @@ app-emulation/opennebula 4.14.2 5.0.2 5.2.0 5.2.1: OpenNebula Virtual Infrastruc
 app-emulation/ovirt-engine 3.6.2 3.6.3 9999: oVirt Engine
 app-emulation/ovirt-node 3.6.2 9999: oVirt Engine
 app-forensics/regviewer 0.1: RegViewer is GTK 2.2 based GUI Windows registry file navigator
+app-office/openoffice-bin 4.1.3: Apache OpenOffice productivity suite
 app-office/yed 3.16.2.1: Diagram editor written in Java
 dev-embedded/arduino 1.6.8 1.6.9: An open-source AVR electronics prototyping platform
 dev-embedded/arduino-ide 1.6.8 1.6.9: An open-source AVR electronics prototyping platform
