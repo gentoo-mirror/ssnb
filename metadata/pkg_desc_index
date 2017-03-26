@@ -1,6 +1,7 @@
 app-admin/chefdk-omnibus 0.16.28 1.2.22: Omnibus installation of ChefDK
 app-admin/clustershell 1.7.2: Python framework for efficient cluster administration
 app-admin/enpass 5.0.5 5.3.0: A cross-platform, complete password management solution that securely manages passwords and all other life important credentials like bank accounts, Credit cards, IDs, passport, driving licenses etc. Everything is saved locally on user’s device and optionally he can sync through other devices using his accounts of Dropbox, Box, Google Drive, OneDrive, iCloud and ownCloud.
+app-admin/keeagent 0.8.1: ssh agent plugin for KeePass 2.x
 app-crypt/pesign 0.111 0.112: Tools for manipulating signed PE-COFF binaries
 app-emulation/opennebula 4.14.2 5.0.2 5.2.0 5.2.1: OpenNebula Virtual Infrastructure Engine
 app-emulation/ovirt-engine 3.6.2 3.6.3 9999: oVirt Engine
