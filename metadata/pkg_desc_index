@@ -20,14 +20,14 @@ dev-ruby/raindrops 0.17.0: A real-time stats toolkit to show statistics for Rack
 dev-ruby/rubygems-update 2.6.8: This is the MySQL API module for Ruby
 dev-ruby/sequel 4.39.0: A lightweight database toolkit for Ruby
 dev-ruby/tilt 2.0.6: Thin interface over template engines to make their usage as generic as possible
-dev-util/clion 2016.2 2016.2.2 2016.2.3 2016.3.0 2016.3.5 2017.1.0: The intelligent cross-platform C/C++ IDE
+dev-util/clion 2016.2 2016.2.2 2016.2.3 2016.3.0 2016.3.5 2017.1.0 2017.1.1: The intelligent cross-platform C/C++ IDE
 dev-util/eclipse-sdk-bin 4.5.2 4.6.1 4.6.2 4.6.3: Eclipse SDK
 dev-util/idea-community 15.0.6.143.2370.31 2016.3.0.163.7743.44 2016.3.1.163.9166.29: A complete toolset for web, mobile and enterprise development
 dev-util/idea-ultimate 2016.2.1.162.1447.26 2016.2.3.162.1812.17 2016.2.4.162.2032.8 2016.2.5.162.2228.15 2016.2.162.1121.32 2016.3.0.163.7743.44 2016.3.2.163.10154.41 2016.3.3.163.11103.6 2016.3.4.163.12024.16 2016.3.5.163.13906.18 2016.3.6.163.15118.11 2017.1.0.171.3780.107 2017.1.1.171.4073.35: A complete toolset for web, mobile and enterprise development
 dev-util/phpstorm 2016.3.2.163.10504.2 2016.3.3.163.13906.21 2017.1.1.171.4073.14: PhpStorm
 dev-util/pycharm-community 2016.2 2016.3.0: Intelligent Python IDE with unique code assistance and analysis
 dev-util/pycharm-professional 2016.2 2016.2.3 2016.3.0 2016.3.2: Intelligent Python IDE with unique code assistance and analysis
-dev-util/rubymine 2016.2 2016.2.1 2016.2.3 2016.2.4 2016.2.5 2016.3.0 2016.3.1 2016.3.2 2017.1.0: The most intelligent Ruby and Rails IDE
+dev-util/rubymine 2016.2 2016.2.1 2016.2.3 2016.2.4 2016.2.5 2016.3.0 2016.3.1 2016.3.2 2017.1.0 2017.1.1: The most intelligent Ruby and Rails IDE
 dev-util/webstorm 11.0.3 2016.2.3.162.1812.21 2016.2.4.162.2228.20 2016.2.162.1121.31 2016.3.1.163.7743.51 2016.3.4.163.13906.20: Most Intelligent WebStorm IDE for develop on js html css, 11 EAP version
 dev-util/zrep 1.5.5 1.6.1 1.6.2 1.6.3 9999: ZFS based replication and failover solution
 dev-vcs/git-lfs 1.4.4: git extension for versioning large files
@@ -37,7 +37,7 @@ net-misc/axel 2.4-r3: Light Unix download accelerator
 net-misc/megasync 3.0.1 9999: A Qt-based program for syncing your MEGA account in your PC. This is the official app.
 net-misc/meocloud-client 0.2.29: meocloud client
 net-misc/meocloud-client-beta 0.2.29: meocloud client
-net-nds/apachedirectorystudio 2.0.0.20151221: Apache Directory Studio is an universal LDAP directory tool.
+net-nds/apachedirectorystudio 2.0.0.20151221 2.0.0.20161101: Apache Directory Studio is an universal LDAP directory tool.
 sys-apps/metastore 9999: Tool to store the metadata of files,directories,links in a file tree
 sys-block/partclone 0.2.69 0.2.88 9999: Back up and restore used-blocks of a partition
 sys-fs/vmfs-tools 0.2.5: Tools for vmfs
