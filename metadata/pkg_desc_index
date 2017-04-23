@@ -43,4 +43,5 @@ sys-apps/metastore 9999: Tool to store the metadata of files,directories,links i
 sys-block/partclone 0.2.69 0.2.88 9999: Back up and restore used-blocks of a partition
 sys-fs/vmfs-tools 0.2.5: Tools for vmfs
 www-apps/gitlabhq 8.16.6: GitLab is a free project and repository management application
+www-client/google-chrome 57.0.2987.133: The web browser from Google
 www-servers/unicorn 5.1.0: An HTTP server for Rack applications

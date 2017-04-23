@@ -11,3 +11,4 @@ app-emulation/ovirt-node:quick - Build quick unusable.
 app-emulation/ovirt-node:system-jars - Use system jars as much as possible.
 dev-util/idea-ultimate:custom-jdk - Install and use IntelliJ's custom JRE.
 sys-fs/vmfs-tools:fuse - Enable image mount support via fuse
+www-client/google-chrome:plugins - Add system plugins path to launcher
