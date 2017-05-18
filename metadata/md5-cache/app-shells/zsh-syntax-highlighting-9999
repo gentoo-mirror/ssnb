@@ -9,4 +9,4 @@ RDEPEND=>=app-shells/zsh-4.3.17
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3 src_install:-
 _eclasses_=git-r3	cbafa3261c37c7e3af44bb16a34ea390
-_md5_=e0692e4dc8274773330ba74afe1c1303
+_md5_=369f8223372dcf5413c2ec2d98890831
