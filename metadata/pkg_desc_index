@@ -7,6 +7,7 @@ app-crypt/pesign 0.111 0.112: Tools for manipulating signed PE-COFF binaries
 app-emulation/opennebula 4.14.2 5.0.2 5.2.0 5.2.1: OpenNebula Virtual Infrastructure Engine
 app-emulation/ovirt-engine 3.6.2 3.6.3 9999: oVirt Engine
 app-emulation/ovirt-node 3.6.2 9999: oVirt Engine
+app-emulation/supermin 5.1.18 9999: Tool for creating supermin appliances
 app-forensics/regviewer 0.1: RegViewer is GTK 2.2 based GUI Windows registry file navigator
 app-office/openoffice-bin 4.1.3: Apache OpenOffice productivity suite
 app-office/yed 3.16.2.1: Diagram editor written in Java

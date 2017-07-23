@@ -9,6 +9,7 @@ app-emulation/ovirt-engine:system-jars - Use system jars as much as possible.
 app-emulation/ovirt-node:javadoc - Install javadocs
 app-emulation/ovirt-node:quick - Build quick unusable.
 app-emulation/ovirt-node:system-jars - Use system jars as much as possible.
+app-emulation/supermin:test - Enable tests with network connection. If you don't have a network connection let it disabled.
 dev-util/idea-ultimate:custom-jdk - Install and use IntelliJ's custom JRE.
 sys-fs/vmfs-tools:fuse - Enable image mount support via fuse
 www-client/google-chrome:plugins - Add system plugins path to launcher
