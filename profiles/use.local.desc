@@ -2,6 +2,10 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-emulation/libguestfs:erlang - Build Erlang bindings
+app-emulation/libguestfs:fuse - Enable image mount support via fuse
+app-emulation/libguestfs:inspect-icons - Use media-gfx/icoutilsfor acces icon file in image and inspect it
+app-emulation/libguestfs:systemtap - Use dev-util/systemtap to inspect VM via "probes" way
 app-emulation/opennebula:extras - Enables additional packages found on arch aur opennebula version.
 app-emulation/ovirt-engine:javadoc - Install javadocs
 app-emulation/ovirt-engine:quick - Build quick unusable.
