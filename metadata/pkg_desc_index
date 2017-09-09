@@ -49,6 +49,5 @@ sys-block/partclone 0.2.69 0.2.88 9999: Back up and restore used-blocks of a par
 sys-fs/btrfsmaintenance 0.3.1 9999: Scripts for btrfs periodic maintenance task
 sys-fs/vmfs-tools 0.2.5: Tools for vmfs
 sys-fs/zrep 1.5.5 1.6.1 1.6.2 1.6.3 1.7.2 1.7.3 9999: ZFS based replication and failover solution
-www-apps/gitlabhq 8.16.6: GitLab is a free project and repository management application
 www-client/google-chrome 57.0.2987.133: The web browser from Google
 www-servers/unicorn 5.1.0: An HTTP server for Rack applications
