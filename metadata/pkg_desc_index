@@ -5,7 +5,7 @@ app-admin/keeagent 0.8.1: ssh agent plugin for KeePass 2.x
 app-admin/terraform 0.9.6: Terraform builds, changes, and combines infrastructure safely and efficiently
 app-crypt/pesign 0.111 0.112: Tools for manipulating signed PE-COFF binaries
 app-emulation/libguestfs 1.28.5_p1-r3: Tools for accessing, inspect and modifying virtual machine (VM) disk images
-app-emulation/opennebula 4.14.2 5.0.2 5.2.0 5.2.1: OpenNebula Virtual Infrastructure Engine
+app-emulation/opennebula 4.14.2 5.0.2 5.2.0 5.2.1 5.4.1: OpenNebula Virtual Infrastructure Engine
 app-emulation/ovirt-engine 3.6.2 3.6.3 9999: oVirt Engine
 app-emulation/ovirt-node 3.6.2 9999: oVirt Engine
 app-emulation/supermin 5.1.18 9999: Tool for creating supermin appliances
