@@ -19,6 +19,7 @@ dev-embedded/arduino 1.6.8 1.6.9: An open-source AVR electronics prototyping pla
 dev-embedded/arduino-ide 1.6.8 1.6.9: An open-source AVR electronics prototyping platform
 dev-embedded/arduino-libs 1.6.8 1.6.9: An open-source AVR electronics prototyping platform
 dev-java/nexus-oss-bin 3.1.0 3.4.0 3.5.1: Maven Repository Manager
+dev-python/gpustat 0.3.2: GPU-based statistical functions
 dev-ruby/amazon-ec2 0.9.17: Client API for Amazon Web Services
 dev-ruby/aws 2.10.2: Client API for Amazon Web Services
 dev-ruby/kgio 2.10.0: Mon-blocking I/O methods for Ruby without raising exceptions
@@ -50,5 +51,6 @@ sys-block/partclone 0.2.69 0.2.88 9999: Back up and restore used-blocks of a par
 sys-fs/btrfsmaintenance 0.3.1 9999: Scripts for btrfs periodic maintenance task
 sys-fs/vmfs-tools 0.2.5: Tools for vmfs
 sys-fs/zrep 1.5.5 1.6.1 1.6.2 1.6.3 1.7.2 1.7.3 9999: ZFS based replication and failover solution
+www-apps/gitlabhq 10.0.3: GitLab is a free project and repository management application
 www-client/google-chrome 57.0.2987.133: The web browser from Google
 www-servers/unicorn 5.1.0: An HTTP server for Rack applications
