@@ -1,11 +1,12 @@
 DEFINED_PHASES=compile configure install preinst prepare unpack
-DEPEND=sys-apps/pcsc-lite dev-java/icedtea sys-apps/pcsc-tools app-crypt/ccid >=dev-qt/qtcore-5 dev-qt/qtchooser dev-libs/xml-security-c dev-libs/xerces-c app-text/poppler || ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync
-DESCRIPTION=Tool for authenticating with https://www.autenticacao.gov.pt/
+DEPEND=sys-apps/pcsc-lite dev-java/icedtea sys-apps/pcsc-tools app-crypt/ccid >=dev-qt/qtcore-5 dev-qt/qtchooser dev-libs/xml-security-c dev-libs/xerces-c app-text/poppler java? ( >=virtual/jdk-1.8:1.8 >=dev-java/oracle-jdk-bin-1.8:1.8 ) || ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync
+DESCRIPTION=Tools for authenticating with https://www.autenticacao.gov.pt/
 EAPI=6
 HOMEPAGE=https://www.autenticacao.gov.pt/
+IUSE=+java
 KEYWORDS=~amd64 ~x86
 LICENSE=EUPL
-RDEPEND=sys-apps/pcsc-lite dev-java/icedtea sys-apps/pcsc-tools app-crypt/ccid >=dev-qt/qtcore-5 dev-qt/qtchooser dev-libs/xml-security-c dev-libs/xerces-c app-text/poppler
+RDEPEND=sys-apps/pcsc-lite dev-java/icedtea sys-apps/pcsc-tools app-crypt/ccid >=dev-qt/qtcore-5 dev-qt/qtchooser dev-libs/xml-security-c dev-libs/xerces-c app-text/poppler java? ( >=virtual/jdk-1.8:1.8 >=dev-java/oracle-jdk-bin-1.8:1.8 )
 SLOT=2
-_eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	227b041a120d309fdefbebb3b8c1dfa9	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	subversion	a5d5826a85609611f098c0553eb24cc1	toolchain-funcs	185a06792159ca143528e7010368e8af
-_md5_=dc6fe33ec897ee1bdc45dc6b5925bcdf
+_eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	227b041a120d309fdefbebb3b8c1dfa9	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	subversion	a5d5826a85609611f098c0553eb24cc1	toolchain-funcs	185a06792159ca143528e7010368e8af	unpacker	f40f7b4bd5aa88c2a4ba7b0d1e0ded70
+_md5_=b63fe5e8be6fa18d7d1459c197d71298
