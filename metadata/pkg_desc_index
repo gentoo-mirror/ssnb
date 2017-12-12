@@ -5,7 +5,7 @@ app-admin/keeagent 0.8.1: ssh agent plugin for KeePass 2.x
 app-admin/keepassx 0.4.4: Qt password manager compatible with its Win32 and Pocket PC versions
 app-admin/terraform 0.9.6: Terraform builds, changes, and combines infrastructure safely and efficiently
 app-crypt/pesign 0.111 0.112: Tools for manipulating signed PE-COFF binaries
-app-emulation/libguestfs 1.28.5_p1-r3: Tools for accessing, inspect and modifying virtual machine (VM) disk images
+app-emulation/libguestfs 1.28.5_p1-r3 1.36.11: Tools for accessing, inspect and modifying virtual machine (VM) disk images
 app-emulation/libvirt 3.10.0-r1 9999: C toolkit to manipulate virtual machines
 app-emulation/opennebula 4.14.2 5.0.2 5.2.0 5.2.1 5.4.1: OpenNebula Virtual Infrastructure Engine
 app-emulation/ovirt-engine 3.6.2 3.6.3 9999: oVirt Engine
