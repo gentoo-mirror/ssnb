@@ -25,7 +25,7 @@ dev-java/jna:0
 
 RDEPEND="${COMMONDEP}
 dev-embedded/arduino-libs
-=dev-embedded/avrdude-6.0.1
+>=dev-embedded/avrdude-6
 sys-devel/crossdev
 >=virtual/jre-1.8"
 
@@ -67,7 +67,7 @@ src_install() {
 
 	insinto "/usr/share/${PNS}/"
 	#doins -r hardware libraries tools tools-builder dist
-	doins -r tools tools-builder dist
+	doins -r tools tools-builder
 	#fowners -R root:uucp "/usr/share/${PNS}/hardware"
 
 	insinto "/usr/share/${PNS}/lib"
