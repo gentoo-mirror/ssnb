@@ -7,4 +7,4 @@ dev-ruby/tilt 2.0.6: Thin interface over template engines to make their usage as
 dev-util/eclipse-sdk-bin 4.5.2: Eclipse SDK
 net-im/mattermost-desktop 1.3.0: Mattermost chat desktop client for Linux
 net-misc/axel 2.4-r3: Light Unix download accelerator
-sci-misc/rapidminer-studio 7.5.3: RapidMiner Studio Free
+sci-misc/rapidminer-studio 7.5.3 8.1.1: RapidMiner Studio Free
