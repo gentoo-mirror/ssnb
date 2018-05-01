@@ -2,6 +2,7 @@ app-admin/enpass 5.0.5 5.3.0: A cross-platform, complete password management sol
 app-admin/keepassx 0.4.4: Qt password manager compatible with its Win32 and Pocket PC versions
 app-admin/terraform 0.9.6 0.11.3: Terraform builds, changes, and combines infrastructure safely and efficiently
 app-admin/terraform-provider-libvirt 0.3: Terraform builds, changes, and combines infrastructure safely and efficiently
+app-admin/terraform-provider-opennebula 1.0.0: Terraform builds, changes, and combines infrastructure safely and efficiently
 app-emulation/opennebula 4.14.2: OpenNebula exists to help companies build simple, cost-effective, reliable, open enterprise clouds on existing IT infrastructure.
 dev-ruby/tilt 2.0.6: Thin interface over template engines to make their usage as generic as possible
 dev-util/eclipse-sdk-bin 4.5.2: Eclipse SDK
