@@ -1,6 +1,6 @@
 app-admin/enpass 5.0.5 5.3.0: A cross-platform, complete password management solution that securely manages passwords and all other life important credentials like bank accounts, Credit cards, IDs, passport, driving licenses etc. Everything is saved locally on user’s device and optionally he can sync through other devices using his accounts of Dropbox, Box, Google Drive, OneDrive, iCloud and ownCloud.
 app-admin/keepassx 0.4.4: Qt password manager compatible with its Win32 and Pocket PC versions
-app-admin/terraform 0.9.6 0.11.3: Terraform builds, changes, and combines infrastructure safely and efficiently
+app-admin/terraform 0.9.6 0.11.3 0.11.7: Terraform builds, changes, and combines infrastructure safely and efficiently
 app-admin/terraform-provider-libvirt 0.3: Terraform builds, changes, and combines infrastructure safely and efficiently
 app-admin/terraform-provider-opennebula 1.0.0: Terraform builds, changes, and combines infrastructure safely and efficiently
 app-emulation/opennebula 4.14.2: OpenNebula exists to help companies build simple, cost-effective, reliable, open enterprise clouds on existing IT infrastructure.
