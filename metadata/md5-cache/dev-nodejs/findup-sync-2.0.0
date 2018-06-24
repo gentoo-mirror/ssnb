@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install unpack
+DESCRIPTION=A package manager for the web
+EAPI=6
+HOMEPAGE=https://www.npmjs.com/package/bower
+IUSE=test
+KEYWORDS=~amd64 ~x86
+LICENSE=MIT
+RDEPEND=dev-nodejs/is-glob dev-nodejs/detect-file dev-nodejs/micromatch dev-nodejs/resolve-dir
+SLOT=0
+SRC_URI=http://registry.npmjs.org/findup-sync/-/findup-sync-2.0.0.tgz
+_eclasses_=multilib	97f470f374f2e94ccab04a2fb21d811e	npm	b0047cdb8ea6e875424520067d276cde	toolchain-funcs	1e35303c63cd707f6c3422b4493d5607
+_md5_=9ff8384611b2b0ede331bf0cf0c7defa
