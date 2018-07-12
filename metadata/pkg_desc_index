@@ -11,3 +11,4 @@ net-misc/axel 2.4-r3: Light Unix download accelerator
 net-misc/megasync 3.6.0-r2: A Qt-based program for syncing your MEGA account in your PC. This is the official app.
 net-p2p/amule 2.3.2-r2: aMule, the all-platform eMule p2p client
 sci-misc/rapidminer-studio 7.5.3 8.1.1: RapidMiner Studio Free
+x11-misc/x11vnc 0.9.15: A VNC server for real X displays
