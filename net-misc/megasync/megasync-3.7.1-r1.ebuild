@@ -33,6 +33,7 @@ DEPEND="
 	dev-lang/swig
 	app-doc/doxygen
 	media-libs/libmediainfo
+	media-libs/libraw
 	!qt5? ( 
 		dev-qt/qtcore:4
 		dev-qt/qtgui:4
