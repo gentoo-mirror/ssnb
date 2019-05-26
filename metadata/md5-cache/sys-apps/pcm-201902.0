@@ -1,0 +1,10 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile configure install prepare unpack
+DESCRIPTION=A Qt-based program for syncing your MEGA account in your PC. This is the official app.
+EAPI=7
+HOMEPAGE=http://mega.co.nz
+KEYWORDS=~x86 ~amd64
+LICENSE=Intel
+SLOT=0
+_eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8	git-r3	0d4635eeb5a96cd5315597a47eba25c9	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	8c7f9d80beedd16f2e5a7f612c609529
+_md5_=4293e4af70e6eaa96299dd5b8a0506b8
