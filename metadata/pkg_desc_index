@@ -1,14 +1,10 @@
-app-admin/enpass 5.0.5 5.3.0: A cross-platform, complete password management solution that securely manages passwords and all other life important credentials like bank accounts, Credit cards, IDs, passport, driving licenses etc. Everything is saved locally on user’s device and optionally he can sync through other devices using his accounts of Dropbox, Box, Google Drive, OneDrive, iCloud and ownCloud.
 app-admin/keepassx 0.4.4: Qt password manager compatible with its Win32 and Pocket PC versions
 app-admin/terraform 0.9.6 0.11.3 0.11.7: Terraform builds, changes, and combines infrastructure safely and efficiently
-app-admin/terraform-provider-libvirt 0.3 0.4.4: Terraform builds, changes, and combines infrastructure safely and efficiently
 app-admin/terraform-provider-opennebula 1.0.0: Terraform builds, changes, and combines infrastructure safely and efficiently
-app-emulation/opennebula 4.14.2: OpenNebula exists to help companies build simple, cost-effective, reliable, open enterprise clouds on existing IT infrastructure.
 dev-ruby/tilt 2.0.6: Thin interface over template engines to make their usage as generic as possible
 dev-util/eclipse-sdk-bin 4.5.2: Eclipse SDK
 net-im/mattermost-desktop 1.3.0: Mattermost chat desktop client for Linux
 net-misc/axel 2.4-r3: Light Unix download accelerator
-net-misc/megasync 3.6.0-r2: A Qt-based program for syncing your MEGA account in your PC. This is the official app.
 net-p2p/amule 2.3.2-r2: aMule, the all-platform eMule p2p client
 sci-misc/rapidminer-studio 7.5.3 8.1.1: RapidMiner Studio Free
 x11-misc/x11vnc 0.9.15: A VNC server for real X displays
