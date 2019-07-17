@@ -1,11 +1,11 @@
-DEFINED_PHASES=compile configure install prepare test unpack
-DEPEND=reiserfs? ( sys-fs/progsreiserfs ) exfat? ( sys-fs/exfat-utils ) ntfs? ( sys-fs/ntfs3g ) extfs? ( sys-libs/e2fsprogs-libs ) reiser4? ( sys-fs/reiser4progs ) reiserfs? ( sys-fs/progsreiserfs ) xfs? ( sys-fs/xfsprogs ) ufs? ( sys-fs/ufsutils ) jfs? ( sys-fs/jfsutils ) btrfs? ( sys-fs/btrfs-progs ) nilfs2? ( >=sys-fs/nilfs-utils-2.1.5-r1 ) f2fs? ( >=sys-libs/e2fsprogs-libs-1.42.13 ) >=app-portage/elt-patches-20170815 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.16.1:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 dev-vcs/git
-DESCRIPTION=Back up and restore used-blocks of a partition
-EAPI=5
-HOMEPAGE=http://partclone.org/
-IUSE=+extfs +fat exfat hfsp jfs +ntfs reiserfs reiser4 ufs xfs f2fs nilfs2 minix vmfs btrfs
+DEFINED_PHASES=configure prepare unpack
+DEPEND=dev-libs/openssl:* e2fs? ( sys-fs/e2fsprogs ) btrfs? ( sys-apps/util-linux ) fuse? ( sys-fs/fuse:0 ) ncurses? ( sys-libs/ncurses:0 ) nilfs2? ( sys-fs/nilfs-utils ) ntfs? ( sys-fs/ntfs3g ) reiserfs? ( sys-fs/progsreiserfs ) reiser4? ( sys-fs/reiser4progs ) xfs? ( sys-apps/util-linux ) static? ( dev-libs/openssl:*[static-libs] e2fs? ( sys-fs/e2fsprogs[static-libs] sys-libs/e2fsprogs-libs[static-libs] ) btrfs? ( sys-apps/util-linux[static-libs] ) fuse? ( sys-fs/fuse:0[static-libs] ) ncurses? ( sys-libs/ncurses:0[static-libs] ) nilfs2? ( sys-fs/nilfs-utils[static-libs] ) ntfs? ( sys-fs/ntfs3g[static-libs] ) reiserfs? ( sys-fs/progsreiserfs[static-libs] ) reiser4? ( sys-fs/reiser4progs[static-libs] ) ) >=app-portage/elt-patches-20170815 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.16.1:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 >=dev-vcs/git-1.8.2.1[curl]
+DESCRIPTION=Partition cloning tool
+EAPI=6
+HOMEPAGE=https://partclone.org
+IUSE=apfs btrfs +e2fs exfat f2fs fat fuse hfs minix ncurses nilfs2 ntfs reiser4 reiserfs static xfs
 LICENSE=GPL-2
-RDEPEND=reiserfs? ( sys-fs/progsreiserfs ) exfat? ( sys-fs/exfat-utils ) ntfs? ( sys-fs/ntfs3g ) extfs? ( sys-libs/e2fsprogs-libs ) reiser4? ( sys-fs/reiser4progs ) reiserfs? ( sys-fs/progsreiserfs ) xfs? ( sys-fs/xfsprogs ) ufs? ( sys-fs/ufsutils ) jfs? ( sys-fs/jfsutils ) btrfs? ( sys-fs/btrfs-progs ) nilfs2? ( >=sys-fs/nilfs-utils-2.1.5-r1 ) f2fs? ( >=sys-libs/e2fsprogs-libs-1.42.13 )
+RDEPEND=dev-libs/openssl:* e2fs? ( sys-fs/e2fsprogs ) btrfs? ( sys-apps/util-linux ) fuse? ( sys-fs/fuse:0 ) ncurses? ( sys-libs/ncurses:0 ) nilfs2? ( sys-fs/nilfs-utils ) ntfs? ( sys-fs/ntfs3g ) reiserfs? ( sys-fs/progsreiserfs ) reiser4? ( sys-fs/reiser4progs ) xfs? ( sys-apps/util-linux ) static? ( dev-libs/openssl:*[static-libs] e2fs? ( sys-fs/e2fsprogs[static-libs] sys-libs/e2fsprogs-libs[static-libs] ) btrfs? ( sys-apps/util-linux[static-libs] ) fuse? ( sys-fs/fuse:0[static-libs] ) ncurses? ( sys-libs/ncurses:0[static-libs] ) nilfs2? ( sys-fs/nilfs-utils[static-libs] ) ntfs? ( sys-fs/ntfs3g[static-libs] ) reiserfs? ( sys-fs/progsreiserfs[static-libs] ) reiser4? ( sys-fs/reiser4progs[static-libs] ) )
 SLOT=0
-_eclasses_=autotools	1bf086cdd7356f5c9a4acd9727bd2065	autotools-utils	696393cddf6200db17a31641f597b403	desktop	b1d22ac8bdd4679ab79c71aca235009d	epatch	a1bf4756dba418a7238f3be0cb010c54	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	6e6c2737b59a4b982de6fb3ecefd87f8	git-2	249c1a0962573f4ce2c28f0d5b6b35d4	libtool	f143db5a74ccd9ca28c1234deffede96	ltprune	2729691420b6deeda2a90b1f1183fb55	multilib	1d91b03d42ab6308b5f4f6b598ed110e	preserve-libs	ef207dc62baddfddfd39a164d9797648	toolchain-funcs	8c7f9d80beedd16f2e5a7f612c609529	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf
-_md5_=02a8b9929629e5dd866f844fa303130d
+_eclasses_=autotools	1bf086cdd7356f5c9a4acd9727bd2065	git-r3	0d4635eeb5a96cd5315597a47eba25c9	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	8c7f9d80beedd16f2e5a7f612c609529
+_md5_=c0fafe8aceef09073c040f54dd86041a
