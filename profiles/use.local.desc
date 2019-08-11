@@ -35,7 +35,77 @@ app-admin/terraform:template - Builds a provider that exposes resources to use t
 app-admin/terraform:tls - Builds the provider that provides utilities for working with Transport Layer Security keys and certificates
 app-admin/terraform:vcd - Builds the provider that is used to interact with the resources supported by VMware vCloud Director http://www.vmware.com/products/vcloud-director/
 app-admin/terraform:vsphere - Builds the provider that interacts with the resources supported by VMware vSphere http://www.vmware.com/products/vsphere
+app-admin/terraform-provider-libvirt:libvirt - Builds the terraform provider for libvirt
 app-admin/terraform-provider-opennebula:libvirt - Builds the terraform provider for opennebula
+app-emulation/libguestfs:erlang - Build Erlang bindings
+app-emulation/libguestfs:fuse - Enable image mount support via fuse
+app-emulation/libguestfs:inspect-icons - Use media-gfx/icoutilsfor acces icon file in image and inspect it
+app-emulation/libguestfs:systemtap - Use dev-util/systemtap to inspect VM via "probes" way
+app-emulation/libvirt:apparmor - Enable AppArmor support
+app-emulation/libvirt:firewalld - DBus interface to iptables/ebtables allowing for better runtime management of your firewall.
+app-emulation/libvirt:fuse - Allow LXC to use sys-fs/fuse for mount points
+app-emulation/libvirt:glusterfs - Enable GlusterFS support via sys-cluster/glusterfs
+app-emulation/libvirt:iscsi - Allow using an iSCSI remote storage server as pool for disk image storage
+app-emulation/libvirt:libssh - Use net-libs/libssh to communicate with remote libvirtd hosts, for example: qemu+libssh://server/system
+app-emulation/libvirt:libvirtd - Builds the libvirtd daemon as well as the client utilities instead of just the client utilities
+app-emulation/libvirt:lvm - Allow using the Logical Volume Manager (sys-fs/lvm2) as pool for disk image storage
+app-emulation/libvirt:lxc - Support management of Linux Containers virtualisation (app-emulation/lxc)
+app-emulation/libvirt:macvtap - Support for MAC-based TAP (macvlan/macvtap). For networking instead of the normal TUN/TAP. It has its advantages and disadvantages. macvtap support requires very new kernels and is currently evolving. Support for this is experimental at best.
+app-emulation/libvirt:nfs - Allow using Network File System mounts as pool for disk image storage
+app-emulation/libvirt:numa - Use NUMA for memory segmenting via sys-process/numactl and sys-process/numad
+app-emulation/libvirt:openvz - Support management of OpenVZ virtualisation (openvz-sources)
+app-emulation/libvirt:parted - Allow using real disk partitions as pool for disk image storage, using sys-block/parted to create, resize and delete them.
+app-emulation/libvirt:pcap - Support auto learning IP addreses for routing
+app-emulation/libvirt:phyp - Support IBM HMC / IVM hypervisor via PHYP protocol
+app-emulation/libvirt:qemu - Support management of QEMU virtualisation (app-emulation/qemu)
+app-emulation/libvirt:rbd - Enable rados block device support via sys-cluster/ceph
+app-emulation/libvirt:uml - Support management of User Mode Linux virtualisation
+app-emulation/libvirt:vepa - Virtual Ethernet Port Aggregator (VEPA) / 802.1Qbg support. Relies on macvtap support.
+app-emulation/libvirt:virt-network - Enable virtual networking (NAT) support for guests. Includes all the dependencies for NATed network mode. Effectively any network setup that relies on libvirt to setup and configure network interfaces on your host. This can include bridged and routed networks ONLY if you are allowing libvirt to create and manage the underlying devices for you. In some cases this requires enabling the 'netcf' USE flag (currently unavailable).
+app-emulation/libvirt:virtualbox - Support management of VirtualBox virtualisation (one of app-emulation/virtualbox or app-emulation/virtualbox-bin)
+app-emulation/libvirt:wireshark-plugins - Build the net-analyzer/wireshark plugin for the Libvirt RPC protocol
+app-emulation/libvirt:xen - Support management of Xen virtualisation (app-emulation/xen)
+app-emulation/libvirt:zfs - Enable ZFS backend storage sys-fs/zfs
+app-emulation/opennebula:extras - Enables additional packages found on arch aur opennebula version.
+app-emulation/ovirt-engine:javadoc - Install javadocs
+app-emulation/ovirt-engine:quick - Build quick unusable.
+app-emulation/ovirt-engine:system-jars - Use system jars as much as possible.
+app-emulation/ovirt-node:javadoc - Install javadocs
+app-emulation/ovirt-node:quick - Build quick unusable.
+app-emulation/ovirt-node:system-jars - Use system jars as much as possible.
+app-emulation/supermin:test - Enable tests with network connection. If you don't have a network connection let it disabled.
+dev-java/sbt:binary - Install from (Gentoo-compiled) binary instead of building from sources. Set this when you run out of memory during build.
+dev-util/idea-ultimate:custom-jdk - Install and use IntelliJ's custom JRE.
+dev-util/nvidia-cuda-sdk:cuda - Build CUDA binaries
+dev-util/nvidia-cuda-sdk:opencl - Build OpenCL binaries
+dev-util/nvidia-cuda-toolkit:debugger - Installs the CUDA debugger
+dev-util/nvidia-cuda-toolkit:eclipse - Install plugins for eclipse
+dev-util/nvidia-cuda-toolkit:profiler - Installs the NVIDIA CUDA visual profiler
+media-video/handbrake:fdk - Support for encoding AAC using media-libs/fdk-aac.
+media-video/handbrake:gstreamer - Support for the streaming media framework from media-libs/gstreamer.
+media-video/handbrake:gtk - Install the GTK UI, ghb.
+media-video/handbrake:libav-aac - Support for encoding AAC using media-video/libav's internal encoder.
+media-video/handbrake:x265 - Support for encoding h265 using media-libs/x265.
+net-fs/samba:addc - Enable Active Directory Domain Controller support
+net-fs/samba:addns - Enable AD DNS integration
+net-fs/samba:ads - Enable Active Directory support
+net-fs/samba:ceph - Enable support for Ceph distributed filesystem via sys-cluster/ceph
+net-fs/samba:client - Enables the client part
+net-fs/samba:cluster - Enable support for clustering
+net-fs/samba:dmapi - Enable support for DMAPI. This currently works only in combination with XFS.
+net-fs/samba:gpg - Use app-crypt/gpgme for AD DC
+net-fs/samba:iprint - Enabling iPrint technology by Novell
+net-fs/samba:json - Enable json audit support through dev-libs/jansson
+net-fs/samba:quota - Enables support for user quotas
+net-fs/samba:system-heimdal - Use app-crypt/heimdal instead of bundled heimdal.
+net-fs/samba:system-mitkrb5 - Use app-crypt/mit-krb5 instead of app-crypt/heimdal.
+net-fs/samba:winbind - Enables support for the winbind auth daemon
 net-p2p/amule:daemon - Enable amule daemon
 net-p2p/amule:remote - Enable remote controlling of the client
 net-p2p/amule:stats - Enable statistic reporting
+sys-fs/vmfs-tools:fuse - Enable image mount support via fuse
+sys-fs/zfs:kernel-builtin - Disable dependency on sys-fs/zfs-kmod under the assumption that ZFS is part of the kernel source tree
+sys-fs/zfs:rootfs - Enable dependencies required for booting off a pool containing a rootfs
+sys-fs/zfs:test-suite - Install regression test suite
+sys-fs/zfs-kmod:rootfs - Install zfs-shutdown script to support exporting a pool containing rootfs
+www-client/google-chrome:plugins - Add system plugins path to launcher

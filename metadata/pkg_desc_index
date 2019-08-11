@@ -1,10 +1,205 @@
+app-admin/chefdk-omnibus 0.16.28 1.2.22 1.3.40 1.3.43 1.4.3 1.6.1 2.3.4 2.4.17 2.5.3 3.1.0: Omnibus installation of ChefDK
+app-admin/clustershell 1.7.2: Python framework for efficient cluster administration
+app-admin/enpass 5.0.5 5.3.0: A cross-platform, complete password management solution that securely manages passwords and all other life important credentials like bank accounts, Credit cards, IDs, passport, driving licenses etc. Everything is saved locally on user’s device and optionally he can sync through other devices using his accounts of Dropbox, Box, Google Drive, OneDrive, iCloud and ownCloud.
+app-admin/keeagent 0.8.1: ssh agent plugin for KeePass 2.x
+app-admin/keepass-plugin-agent 0.10.1: ssh agent plugin for KeePass 2.x
 app-admin/keepassx 0.4.4: Qt password manager compatible with its Win32 and Pocket PC versions
+app-admin/nvidia-docker 2.0.3: NVIDIA Docker
 app-admin/terraform 0.9.6 0.11.3 0.11.7: Terraform builds, changes, and combines infrastructure safely and efficiently
+app-admin/terraform-provider-libvirt 0.3 0.4.4: Terraform builds, changes, and combines infrastructure safely and efficiently
 app-admin/terraform-provider-opennebula 1.0.0: Terraform builds, changes, and combines infrastructure safely and efficiently
+app-crypt/pesign 0.111 0.112: Tools for manipulating signed PE-COFF binaries
+app-editors/visual-studio-code 1.35.1 1.36.0: Multiplatform Visual Studio Code from Microsoft (binary version)
+app-emulation/libguestfs 1.28.5_p1-r3 1.36.11 1.37.35 1.38.6 1.40.2: Tools for accessing, inspect and modifying virtual machine (VM) disk images
+app-emulation/libguestfs-appliance 1.38.0 1.40.1: VM appliance disk image used in libguestfs package
+app-emulation/libvirt 3.10.0-r1 9999: C toolkit to manipulate virtual machines
+app-emulation/opennebula 5.4.13 5.4.15 5.6.0 5.6.1 5.8.1: OpenNebula Virtual Infrastructure Engine
+app-emulation/ovirt-engine 3.6.2 3.6.3 9999: oVirt Engine
+app-emulation/ovirt-node 3.6.2 9999: oVirt Engine
+app-emulation/supermin 5.1.18 9999: Tool for creating supermin appliances
+app-forensics/regviewer 0.1: RegViewer is GTK 2.2 based GUI Windows registry file navigator
+app-misc/autenticacao-gov-pt 2.0.36: O Autenticação.gov.pt é o mecanismo que permite utilizar o Cartão de Cidadão eficientemente e em segurança nos navegadores que suportem ou não plugins Java
+app-misc/cartao-cidadao-svn 2.4.6 3.0.13-r1: Tools for authenticating with https://www.autenticacao.gov.pt/
+app-office/freeoffice 944: A complete, free Microsoft Office-compatible alternative office suite
+app-office/openoffice-bin 4.1.3: Apache OpenOffice productivity suite
+app-office/yed 3.16.2.1: Diagram editor written in Java
+app-shells/oh-my-zsh 9999: A ready-to-use zsh configuration with plugins
+app-shells/zsh-syntax-highlighting 9999: Syntax highlighting (similar to the fish shell) for ZSH
+dev-embedded/arduino 1.6.8 1.6.9 1.6.13 1.8.5: An open-source AVR electronics prototyping platform
+dev-embedded/arduino-ide 1.6.8 1.6.9 1.6.13 1.8.5: An open-source AVR electronics prototyping platform
+dev-embedded/arduino-libs 1.6.8 1.6.9 1.6.13 1.8.5: An open-source AVR electronics prototyping platform
+dev-java/nexus-oss-bin 3.7.0 3.14.0 3.14.0-r1: Maven Repository Manager
+dev-java/sbt 1.1.2: sbt is a build tool for Scala and Java projects that aims to do the basics well
+dev-nodejs/abbrev 1.1.1: A package manager for the web
+dev-nodejs/ansi-styles 3.2.1: A package manager for the web
+dev-nodejs/argparse 1.0.10: A package manager for the web
+dev-nodejs/arr-diff 4.0.0: A package manager for the web
+dev-nodejs/arr-flatten 1.1.0: A package manager for the web
+dev-nodejs/arr-union 3.1.0: A package manager for the web
+dev-nodejs/array-unique 0.3.2: A package manager for the web
+dev-nodejs/assign-symbols 1.0.0: A package manager for the web
+dev-nodejs/async 2.6.1: A package manager for the web
+dev-nodejs/balanced-match 1.0.0: A package manager for the web
+dev-nodejs/bower 1.8.4: A package manager for the web
+dev-nodejs/brace-expansion 1.1.11: A package manager for the web
+dev-nodejs/braces 2.3.2: A package manager for the web
+dev-nodejs/chalk 2.4.1: A package manager for the web
+dev-nodejs/coffeescript 2.3.1: A package manager for the web
+dev-nodejs/color-convert 1.9.2: A package manager for the web
+dev-nodejs/color-name 1.1.3: A package manager for the web
+dev-nodejs/colors 1.3.0: A package manager for the web
+dev-nodejs/component-emitter 1.2.1: A package manager for the web
+dev-nodejs/concat-map 0.0.1: A package manager for the web
+dev-nodejs/dateformat 3.0.3: A package manager for the web
+dev-nodejs/define-property 2.0.2: A package manager for the web
+dev-nodejs/detect-file 1.0.0: A package manager for the web
+dev-nodejs/escape-string-regexp 1.0.5: A package manager for the web
+dev-nodejs/esprima 4.0.0: A package manager for the web
+dev-nodejs/eventemitter2 5.0.1: A package manager for the web
+dev-nodejs/exit 0.1.2: A package manager for the web
+dev-nodejs/expand-brackets 4.0.0: A package manager for the web
+dev-nodejs/expand-tilde 2.0.2: A package manager for the web
+dev-nodejs/extend-shallow 3.0.2: A package manager for the web
+dev-nodejs/extglob 3.0.0: A package manager for the web
+dev-nodejs/fill-range 5.0.0: A package manager for the web
+dev-nodejs/findup-sync 2.0.0: A package manager for the web
+dev-nodejs/fragment-cache 0.2.1: A package manager for the web
+dev-nodejs/fs-realpath 1.0.0: A package manager for the web
+dev-nodejs/get-value 3.0.1: A package manager for the web
+dev-nodejs/getobject 0.1.0: A package manager for the web
+dev-nodejs/glob 7.1.2: A package manager for the web
+dev-nodejs/global-modules 1.0.0: A package manager for the web
+dev-nodejs/global-prefix 1.0.2: A package manager for the web
+dev-nodejs/grunt 1.0.2: A package manager for the web
+dev-nodejs/grunt-cli 1.2.0: A package manager for the web
+dev-nodejs/grunt-known-options 1.1.0: A package manager for the web
+dev-nodejs/grunt-legacy-log 2.0.0: A package manager for the web
+dev-nodejs/grunt-legacy-log-utils 2.0.1: A package manager for the web
+dev-nodejs/grunt-legacy-util 1.1.1: A package manager for the web
+dev-nodejs/has-flag 3.0.0: A package manager for the web
+dev-nodejs/homedir-polyfill 1.0.1: A package manager for the web
+dev-nodejs/hooker 0.2.3: A package manager for the web
+dev-nodejs/iconv-lite 0.4.23: A package manager for the web
+dev-nodejs/inflight 1.0.6: A package manager for the web
+dev-nodejs/inherits 2.0.3: A package manager for the web
+dev-nodejs/ini 1.3.5: A package manager for the web
+dev-nodejs/is-accessor-descriptor 2.0.0: A package manager for the web
+dev-nodejs/is-data-descriptor 1.0.0: A package manager for the web
+dev-nodejs/is-descriptor 1.0.2: A package manager for the web
+dev-nodejs/is-extendable 1.0.1: A package manager for the web
+dev-nodejs/is-extglob 2.1.1: A package manager for the web
+dev-nodejs/is-glob 4.0.0: A package manager for the web
+dev-nodejs/is-number 6.0.0: A package manager for the web
+dev-nodejs/is-odd 3.0.1: A package manager for the web
+dev-nodejs/is-plain-object 2.0.4: A package manager for the web
+dev-nodejs/is-windows 1.0.2: A package manager for the web
+dev-nodejs/isexe 2.0.0: A package manager for the web
+dev-nodejs/isobject 3.0.1: A package manager for the web
+dev-nodejs/js-yaml 3.12.0: A package manager for the web
+dev-nodejs/kind-of 6.0.2: A package manager for the web
+dev-nodejs/lodash 4.17.10: A package manager for the web
+dev-nodejs/map-cache 0.2.2: A package manager for the web
+dev-nodejs/micromatch 3.1.10: A package manager for the web
+dev-nodejs/minimatch 3.0.4: A package manager for the web
+dev-nodejs/minimist 1.2.0: A package manager for the web
+dev-nodejs/mkdirp 0.5.1: A package manager for the web
+dev-nodejs/nanomatch 1.2.9: A package manager for the web
+dev-nodejs/nopt 4.0.1: A package manager for the web
+dev-nodejs/object-pick 1.3.0: A package manager for the web
+dev-nodejs/once 1.4.0: A package manager for the web
+dev-nodejs/os-homedir 1.0.2: A package manager for the web
+dev-nodejs/os-tmpdir 1.0.2: A package manager for the web
+dev-nodejs/osenv 0.1.5: A package manager for the web
+dev-nodejs/parse-passwd 1.0.0: A package manager for the web
+dev-nodejs/path-is-absolute 1.0.1: A package manager for the web
+dev-nodejs/posix-character-classes 1.0.0: A package manager for the web
+dev-nodejs/regex-not 1.0.2: A package manager for the web
+dev-nodejs/repeat-element 1.1.2: A package manager for the web
+dev-nodejs/repeat-string 1.6.1: A package manager for the web
+dev-nodejs/resolve 1.7.1: A package manager for the web
+dev-nodejs/resolve-dir 1.0.1: A package manager for the web
+dev-nodejs/ret 0.2.2: A package manager for the web
+dev-nodejs/rimraf 2.6.2: A package manager for the web
+dev-nodejs/safe-regex 1.1.0: A package manager for the web
+dev-nodejs/safer-buffer 2.1.2: A package manager for the web
+dev-nodejs/sellside-emitter 1.2.1: A package manager for the web
+dev-nodejs/snapdragon 0.12.0: A package manager for the web
+dev-nodejs/snapdragon-capture 0.2.0: A package manager for the web
+dev-nodejs/snapdragon-handlers 1.0.0: A package manager for the web
+dev-nodejs/snapdragon-lexer 3.1.0: A package manager for the web
+dev-nodejs/snapdragon-node 2.1.1: A package manager for the web
+dev-nodejs/snapdragon-stack 2.1.0: A package manager for the web
+dev-nodejs/snapdragon-token 4.0.0: A package manager for the web
+dev-nodejs/snapdragon-util 5.0.1: A package manager for the web
+dev-nodejs/source-map 0.7.3: A package manager for the web
+dev-nodejs/source-map-resolve 0.5.2: A package manager for the web
+dev-nodejs/split-string 5.0.4: A package manager for the web
+dev-nodejs/sprintf-js 1.1.1: A package manager for the web
+dev-nodejs/supports-color 5.4.0: A package manager for the web
+dev-nodejs/to-regex 3.0.2: A package manager for the web
+dev-nodejs/to-regex-range 3.0.0: A package manager for the web
+dev-nodejs/underscore-string 3.3.4: A package manager for the web
+dev-nodejs/use 3.1.0: A package manager for the web
+dev-nodejs/util-deprecate 1.0.2: A package manager for the web
+dev-nodejs/which 1.3.1: A package manager for the web
+dev-nodejs/wrappy 1.0.2: A package manager for the web
+dev-python/gpustat 0.3.2: GPU-based statistical functions
+dev-python/hvac 0.9.2: Python 2/3 client for HashiCorp Vault
+dev-python/pyhcl 0.3.12: HCL configuration parser for python
+dev-ruby/amazon-ec2 0.9.17: Client API for Amazon Web Services
+dev-ruby/aws 2.10.2: Client API for Amazon Web Services
+dev-ruby/azure 0.7.10: Microsoft Azure Client Library for Ruby
+dev-ruby/configparser 0.1.7: parses configuration files compatable with Python's ConfigParser
+dev-ruby/kgio 2.10.0: Mon-blocking I/O methods for Ruby without raising exceptions
+dev-ruby/memcache-client 1.8.5: A Ruby library for accessing memcached
+dev-ruby/mysql 2.9.1: This is the MySQL API module for Ruby
+dev-ruby/parse-cron 0.1.4: Parse a crontab timing specification and determine when the job should be run.
+dev-ruby/raindrops 0.17.0: A real-time stats toolkit to show statistics for Rack HTTP servers
+dev-ruby/rubygems-update 2.6.8: This is the MySQL API module for Ruby
+dev-ruby/sequel 4.39.0: A lightweight database toolkit for Ruby
+dev-ruby/thin 1.7.2: This a Ruby gem that delivers a thin and fast web server
 dev-ruby/tilt 2.0.6: Thin interface over template engines to make their usage as generic as possible
-dev-util/eclipse-sdk-bin 4.5.2: Eclipse SDK
-net-im/mattermost-desktop 1.3.0: Mattermost chat desktop client for Linux
+dev-ruby/treetop 1.6.10-r1: Treetop is a language for describing languages
+dev-ruby/xmlparser 0.7.2.1: Ruby bindings to the Expat XML parsing library
+dev-ruby/zendesk_api 1.14.0: This client only supports Zendesk's v2 API.
+dev-util/clion 2019.1.4: A complete toolset for C and C++ development
+dev-util/eclipse-sdk-bin 4.5.2 4.6.3 4.7.2 4.7.3 4.8.0 4.9.0 4.10.1: Eclipse SDK
+dev-util/idea-community 2018.1.2.181.4668.68: A complete toolset for web, mobile and enterprise development
+dev-util/idea-ultimate 2018.2.5.182.4892.20 2018.2.6.182.5107.16 2018.3.0.183.4284.148 2018.3.2.183.4886.37 2018.3.3.183.5153.38 2018.3.4.183.5429.30 2018.3.5.183.5912.21 2018.3.6.183.6156.11 2019.1.2.191.7141.44 2019.1.3.191.7479.19: A complete toolset for web, mobile and enterprise development
+dev-util/nvidia-cuda-sdk 9.1.85-r1: NVIDIA CUDA Software Development Kit
+dev-util/nvidia-cuda-toolkit 9.1.85-r1: NVIDIA CUDA Toolkit (compiler and friends)
+dev-util/phpstorm 2016.3.2.163.10504.2 2016.3.3.163.13906.21 2017.1.1.171.4073.14 2017.1.3.171.4424.11 2017.1.4.171.4694.2 2017.2.2.172.3968.35: PhpStorm
+dev-util/pycharm-community 2016.2 2016.3.0: Intelligent Python IDE with unique code assistance and analysis
+dev-util/pycharm-professional 2016.2 2016.2.3 2016.3.0 2016.3.2 2017.1.1 2017.1.2 2017.1.4: Intelligent Python IDE with unique code assistance and analysis
+dev-util/rpmdevtools 9999: Collection of rpm packaging related utilities
+dev-util/rpmlint 1.5 1.10 9999: Tool for checking common errors in RPM packages
+dev-util/rubymine 2018.2.4 2018.2.5 2018.2.6 2018.3.2 2018.3.4 2018.3.5 2019.1.1 2019.1.2: The most intelligent Ruby and Rails IDE
+dev-util/webstorm 11.0.3 2016.2.3.162.1812.21 2016.2.4.162.2228.20 2016.2.162.1121.31 2016.3.1.163.7743.51 2016.3.4.163.13906.20 2016.3.6.163.15188.15 2017.1.1.171.4073.40 2017.1.3.171.4424.63 2017.1.4.171.4694.29 2017.2.3.172.3968.27 2017.2.5.172.4343.25: Most Intelligent WebStorm IDE for develop on js html css, 11 EAP version
+dev-vcs/git-lfs 1.4.4: git extension for versioning large files
+media-video/handbrake 1.0.7: Open-source, GPL-licensed, multiplatform, multithreaded video transcoder
+media-video/pitivi 0.98.1-r1: A non-linear video editor using the GStreamer multimedia framework
+media-video/qmplay2 18.04.01 9999: Qt-based video player, which can play all formats and stream
+net-fs/samba 4.9.1-r1 4.9.2-r1: Samba Suite Version 4
+net-im/mattermost-desktop 1.3.0 3.7.0: Mattermost chat desktop client for Linux
+net-im/slack-desktop-bin 2.5.2 3.0.5: Official Slack Desktop Client
+net-im/stride-bin 1.17.82: Stride desktop client
+net-im/zoom-bin 2.0.115900.1201 2.1.103753.0521 2.7.162522.0121 2.9.265650.0716: Video conferencing and web conferencing service
 net-misc/axel 2.4-r3: Light Unix download accelerator
+net-misc/megasync 3.0.1 3.1.4 3.5.3 3.6.0-r1 3.6.0-r2 3.6.5 3.6.5-r1 3.6.6 3.6.6-r1 3.7.1-r1 4.0.2 4.1.1 4.2.0 9999: A Qt-based program for syncing your MEGA account in your PC. This is the official app.
+net-misc/meocloud-client 0.2.29: meocloud client
+net-misc/meocloud-client-beta 0.2.29: meocloud client
+net-nds/apachedirectorystudio 2.0.0.20180908 2.0.0.20180908-r1: Apache Directory Studio is an universal LDAP directory tool.
 net-p2p/amule 2.3.2-r2: aMule, the all-platform eMule p2p client
 sci-misc/rapidminer-studio 7.5.3 8.1.1: RapidMiner Studio Free
+sys-apps/metastore 9999: Tool to store the metadata of files,directories,links in a file tree
+sys-apps/pcm 201902.0 999999: Processor Counter Monitor (PCM) is an application programming interface (API) and a set of tools based on the API to monitor performance and energy metrics of Intel processors
+sys-block/partclone 0.2.88 0.3.12 9999: Partition cloning tool
+sys-fs/btrfsmaintenance 0.3.1 9999: Scripts for btrfs periodic maintenance task
+sys-fs/vmfs-tools 0.2.5: Tools for vmfs
+sys-fs/zfs 0.7.4: Userland utilities for ZFS Linux kernel module
+sys-fs/zfs-kmod 0.7.4: Linux ZFS kernel module for sys-fs/zfs
+sys-fs/zrep 1.5.5 1.6.1 1.6.2 1.6.3 1.7.2 1.7.3 1.7.5 1.7.6 9999: ZFS based replication and failover solution
+sys-kernel/spl 0.7.4: The Solaris Porting Layer provides many of the Solaris kernel APIs
+www-client/google-chrome 57.0.2987.133: The web browser from Google
+www-client/opera-developer 57.0.3072.0-r1: A fast and secure web browser
 x11-misc/x11vnc 0.9.15: A VNC server for real X displays
