@@ -13,7 +13,7 @@ app-editors/visual-studio-code 1.35.1 1.36.0: Multiplatform Visual Studio Code f
 app-emulation/libguestfs 1.28.5_p1-r3 1.36.11 1.37.35 1.38.6 1.40.2: Tools for accessing, inspect and modifying virtual machine (VM) disk images
 app-emulation/libguestfs-appliance 1.38.0 1.40.1: VM appliance disk image used in libguestfs package
 app-emulation/libvirt 3.10.0-r1 9999: C toolkit to manipulate virtual machines
-app-emulation/opennebula 4.14.2 5.4.1 5.4.6 5.4.13 5.4.15 5.6.0 5.6.1 5.8.1: OpenNebula Virtual Infrastructure Engine
+app-emulation/opennebula 5.4.13 5.4.15 5.6.0 5.6.1 5.8.1: OpenNebula Virtual Infrastructure Engine
 app-emulation/ovirt-engine 3.6.2 3.6.3 9999: oVirt Engine
 app-emulation/ovirt-node 3.6.2 9999: oVirt Engine
 app-emulation/supermin 5.1.18 9999: Tool for creating supermin appliances
@@ -200,8 +200,6 @@ sys-fs/zfs 0.7.4: Userland utilities for ZFS Linux kernel module
 sys-fs/zfs-kmod 0.7.4: Linux ZFS kernel module for sys-fs/zfs
 sys-fs/zrep 1.5.5 1.6.1 1.6.2 1.6.3 1.7.2 1.7.3 1.7.5 1.7.6 9999: ZFS based replication and failover solution
 sys-kernel/spl 0.7.4: The Solaris Porting Layer provides many of the Solaris kernel APIs
-www-apps/gitlabhq 10.0.3: GitLab is a free project and repository management application
 www-client/google-chrome 57.0.2987.133: The web browser from Google
 www-client/opera-developer 57.0.3072.0-r1: A fast and secure web browser
-www-servers/unicorn 5.1.0: An HTTP server for Rack applications
 x11-misc/x11vnc 0.9.15: A VNC server for real X displays
