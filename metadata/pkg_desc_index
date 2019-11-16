@@ -198,7 +198,7 @@ sys-fs/btrfsmaintenance 0.3.1 9999: Scripts for btrfs periodic maintenance task
 sys-fs/vmfs-tools 0.2.5: Tools for vmfs
 sys-fs/zfs 0.7.4: Userland utilities for ZFS Linux kernel module
 sys-fs/zfs-kmod 0.7.4: Linux ZFS kernel module for sys-fs/zfs
-sys-fs/zrep 1.5.5 1.6.1 1.6.2 1.6.3 1.7.2 1.7.3 1.7.5 1.7.6 9999: ZFS based replication and failover solution
+sys-fs/zrep 1.5.5 1.6.1 1.6.2 1.6.3 1.7.2 1.7.3 1.7.5 1.7.6 1.7.7 9999: ZFS based replication and failover solution
 sys-kernel/spl 0.7.4: The Solaris Porting Layer provides many of the Solaris kernel APIs
 www-client/google-chrome 57.0.2987.133: The web browser from Google
 www-client/opera-developer 57.0.3072.0-r1: A fast and secure web browser
