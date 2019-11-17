@@ -1,0 +1,9 @@
+DEFINED_PHASES=install unpack
+DESCRIPTION=meocloud client
+EAPI=7
+HOMEPAGE=https://meocloud.pt/downloads
+KEYWORDS=~amd64 ~x86
+SLOT=0
+SRC_URI=x86? ( https://meocloud.pt/binaries/linux/i386/meocloud-latest_i386_beta.tar.gz -> meocloud-client-beta-0.2.29_i386.tar.gz ) amd64? ( https://meocloud.pt/binaries/linux/x86_64/meocloud-latest_x86_64_beta.tar.gz -> meocloud-client-beta-0.2.29_x86_64.tar.gz )
+_eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8	prefix	c2993e4c430c1ee24f278983d6189501
+_md5_=140926e9ed0ca219c0f6f01de0a47469
