@@ -29,7 +29,7 @@ app-shells/zsh-syntax-highlighting 9999: Syntax highlighting (similar to the fis
 dev-embedded/arduino 1.6.8 1.6.9 1.6.13 1.8.5: An open-source AVR electronics prototyping platform
 dev-embedded/arduino-ide 1.6.8 1.6.9 1.6.13 1.8.5: An open-source AVR electronics prototyping platform
 dev-embedded/arduino-libs 1.6.8 1.6.9 1.6.13 1.8.5: An open-source AVR electronics prototyping platform
-dev-java/nexus-oss-bin 3.7.0 3.14.0 3.14.0-r1: Maven Repository Manager
+dev-java/nexus-oss-bin 3.7.0 3.14.0 3.14.0-r1 3.19.1: Maven Repository Manager
 dev-java/sbt 1.1.2: sbt is a build tool for Scala and Java projects that aims to do the basics well
 dev-nodejs/abbrev 1.1.1: A package manager for the web
 dev-nodejs/ansi-styles 3.2.1: A package manager for the web
