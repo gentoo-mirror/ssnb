@@ -172,7 +172,7 @@ dev-ruby/zendesk_api 1.14.0: This client only supports Zendesk's v2 API.
 dev-util/clion 2019.1.4 2019.2.3 2019.2.5 2019.3.1: A complete toolset for C and C++ development
 dev-util/eclipse-sdk-bin 4.5.2 4.6.3 4.7.2 4.7.3 4.8.0 4.9.0 4.10.1 4.13.0: Eclipse SDK
 dev-util/idea-community 2018.1.2.181.4668.68: A complete toolset for web, mobile and enterprise development
-dev-util/idea-ultimate 2018.2.5.182.4892.20 2018.2.6.182.5107.16 2018.3.0.183.4284.148 2018.3.2.183.4886.37 2018.3.3.183.5153.38 2018.3.4.183.5429.30 2018.3.5.183.5912.21 2018.3.6.183.6156.11 2019.1.2.191.7141.44 2019.1.3.191.7479.19 2019.1.4.191.8026.42 2019.2.3.192.6817.14 2019.2.4.192.7142.36 2019.3.0.193.5233.102: A complete toolset for web, mobile and enterprise development
+dev-util/idea-ultimate 2018.2.5.182.4892.20 2018.2.6.182.5107.16 2018.3.0.183.4284.148 2018.3.2.183.4886.37 2018.3.3.183.5153.38 2018.3.4.183.5429.30 2018.3.5.183.5912.21 2018.3.6.183.6156.11 2019.1.2.191.7141.44 2019.1.3.191.7479.19 2019.1.4.191.8026.42 2019.2.3.192.6817.14 2019.2.4.192.7142.36 2019.3.0.193.5233.102 2019.3.1.193.5662.53: A complete toolset for web, mobile and enterprise development
 dev-util/nvidia-cuda-sdk 9.1.85-r1: NVIDIA CUDA Software Development Kit
 dev-util/nvidia-cuda-toolkit 9.1.85-r1: NVIDIA CUDA Toolkit (compiler and friends)
 dev-util/phpstorm 2016.3.2.163.10504.2 2016.3.3.163.13906.21 2017.1.1.171.4073.14 2017.1.3.171.4424.11 2017.1.4.171.4694.2 2017.2.2.172.3968.35: PhpStorm
@@ -180,7 +180,7 @@ dev-util/pycharm-community 2016.2 2016.3.0: Intelligent Python IDE with unique c
 dev-util/pycharm-professional 2016.2 2016.2.3 2016.3.0 2016.3.2 2017.1.1 2017.1.2 2017.1.4: Intelligent Python IDE with unique code assistance and analysis
 dev-util/rpmdevtools 9999: Collection of rpm packaging related utilities
 dev-util/rpmlint 1.5 1.10 9999: Tool for checking common errors in RPM packages
-dev-util/rubymine 2018.2.4 2018.2.5 2018.2.6 2018.3.2 2018.3.4 2018.3.5 2019.1.1 2019.1.2 2019.1.4 2019.2.2 2019.2.3 2019.2.4 2019.3.0: The most intelligent Ruby and Rails IDE
+dev-util/rubymine 2018.2.4 2018.2.5 2018.2.6 2018.3.2 2018.3.4 2018.3.5 2019.1.1 2019.1.2 2019.1.4 2019.2.2 2019.2.3 2019.2.4 2019.3.0 2019.3.1: The most intelligent Ruby and Rails IDE
 dev-util/webstorm 11.0.3 2016.2.3.162.1812.21 2016.2.4.162.2228.20 2016.2.162.1121.31 2016.3.1.163.7743.51 2016.3.4.163.13906.20 2016.3.6.163.15188.15 2017.1.1.171.4073.40 2017.1.3.171.4424.63 2017.1.4.171.4694.29 2017.2.3.172.3968.27 2017.2.5.172.4343.25: Most Intelligent WebStorm IDE for develop on js html css, 11 EAP version
 dev-vcs/git-lfs 1.4.4: git extension for versioning large files
 media-tv/plex-media-server 1.18.2: A free media library that is intended for use with a plex client.
