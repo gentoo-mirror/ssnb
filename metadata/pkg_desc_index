@@ -15,7 +15,6 @@ app-emulation/libguestfs-appliance 1.38.0 1.40.1: VM appliance disk image used i
 app-emulation/libvirt 3.10.0-r1 9999: C toolkit to manipulate virtual machines
 app-emulation/opennebula 5.4.13 5.4.15 5.6.0 5.6.1 5.8.1: OpenNebula Virtual Infrastructure Engine
 app-emulation/ovirt-engine 3.6.2 3.6.3 9999: oVirt Engine
-app-emulation/ovirt-node 3.6.2 9999: oVirt Engine
 app-emulation/supermin 5.1.18 9999: Tool for creating supermin appliances
 app-forensics/regviewer 0.1: RegViewer is GTK 2.2 based GUI Windows registry file navigator
 app-misc/autenticacao-gov-pt 2.0.46: O Autenticação.gov.pt é o mecanismo que permite utilizar o Cartão de Cidadão eficientemente e em segurança nos navegadores que suportem ou não plugins Java
@@ -199,7 +198,6 @@ net-misc/meocloud-client-beta 0.2.29-r1: meocloud client
 net-nds/apachedirectorystudio 2.0.0.20180908 2.0.0.20180908-r1: Apache Directory Studio is an universal LDAP directory tool.
 net-p2p/amule 2.3.2-r2: aMule, the all-platform eMule p2p client
 sci-misc/rapidminer-studio 7.5.3 8.1.1: RapidMiner Studio Free
-sys-apps/metastore 9999: Tool to store the metadata of files,directories,links in a file tree
 sys-apps/pcm 201902.0 999999: Processor Counter Monitor (PCM) is an application programming interface (API) and a set of tools based on the API to monitor performance and energy metrics of Intel processors
 sys-block/partclone 0.2.88 0.3.12 9999: Partition cloning tool
 sys-fs/btrfsmaintenance 0.3.1 9999: Scripts for btrfs periodic maintenance task
