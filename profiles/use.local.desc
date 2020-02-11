@@ -67,12 +67,6 @@ app-emulation/libvirt:wireshark-plugins - Build the net-analyzer/wireshark plugi
 app-emulation/libvirt:xen - Support management of Xen virtualisation (app-emulation/xen)
 app-emulation/libvirt:zfs - Enable ZFS backend storage sys-fs/zfs
 app-emulation/opennebula:extras - Enables additional packages found on arch aur opennebula version.
-app-emulation/ovirt-engine:javadoc - Install javadocs
-app-emulation/ovirt-engine:quick - Build quick unusable.
-app-emulation/ovirt-engine:system-jars - Use system jars as much as possible.
-app-emulation/ovirt-node:javadoc - Install javadocs
-app-emulation/ovirt-node:quick - Build quick unusable.
-app-emulation/ovirt-node:system-jars - Use system jars as much as possible.
 app-emulation/supermin:test - Enable tests with network connection. If you don't have a network connection let it disabled.
 dev-java/sbt:binary - Install from (Gentoo-compiled) binary instead of building from sources. Set this when you run out of memory during build.
 dev-util/idea-ultimate:custom-jdk - Install and use IntelliJ's custom JRE.
