@@ -66,7 +66,15 @@ app-emulation/libvirt:virtualbox - Support management of VirtualBox virtualisati
 app-emulation/libvirt:wireshark-plugins - Build the net-analyzer/wireshark plugin for the Libvirt RPC protocol
 app-emulation/libvirt:xen - Support management of Xen virtualisation (app-emulation/xen)
 app-emulation/libvirt:zfs - Enable ZFS backend storage sys-fs/zfs
+app-emulation/opennebula:docker - Build docker machine driver.
 app-emulation/opennebula:extras - Enables additional packages found on arch aur opennebula version.
+app-emulation/opennebula:mysql - Enables mysql support.
+app-emulation/opennebula:qemu - Enables qemu support.
+app-emulation/opennebula:sqlite - Enables sqlite support.
+app-emulation/opennebula:sunstone - Build sunstone minified files.
+app-emulation/opennebula:systemd - Use systemd init system.
+app-emulation/opennebula:vnc - Build vnc support for LXD drivers.
+app-emulation/opennebula:xen - Enables xen support.
 app-emulation/supermin:test - Enable tests with network connection. If you don't have a network connection let it disabled.
 dev-java/sbt:binary - Install from (Gentoo-compiled) binary instead of building from sources. Set this when you run out of memory during build.
 dev-util/idea-ultimate:custom-jdk - Install and use IntelliJ's custom JRE.

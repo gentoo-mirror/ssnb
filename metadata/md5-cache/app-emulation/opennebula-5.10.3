@@ -1,0 +1,15 @@
+BDEPEND=ruby_targets_ruby24? ( dev-lang/ruby:2.4 ) ruby_targets_ruby25? ( dev-lang/ruby:2.5 ) ruby_targets_ruby26? ( dev-lang/ruby:2.6 ) virtual/pkgconfig
+DEFINED_PHASES=compile configure install postinst prepare setup test unpack
+DEPEND=>=dev-libs/xmlrpc-c-1.18.02[abyss,cxx,threads] dev-lang/ruby dev-lang/python extras? ( dev-libs/openssl dev-ruby/libxml net-misc/curl dev-libs/libxslt dev-libs/expat dev-ruby/uuidtools dev-ruby/amazon-ec2 dev-ruby/webmock dev-ruby/mysql dev-ruby/mysql2 dev-ruby/parse-cron dev-ruby/sequel dev-ruby/treetop dev-ruby/xml-simple dev-ruby/zendesk_api dev-libs/log4cpp ) mysql? ( virtual/mysql ) dev-db/sqlite net-misc/openssh net-fs/nfs-utils dev-db/mariadb net-libs/zeromq || ( app-cdr/cdrkit app-cdr/cdrtools ) sqlite? ( dev-ruby/sqlite3 ) qemu? ( app-emulation/libvirt[libvirtd,qemu] ) xen? ( app-emulation/xen-tools ) >=dev-util/scons-1.2.0-r1 dev-ruby/nokogiri dev-ruby/bundler dev-nodejs/grunt-cli dev-nodejs/bower net-libs/nodejs[npm] net-libs/libvncserver docker? ( dev-go/dep ) ruby_targets_ruby24? ( dev-lang/ruby:2.4 ) ruby_targets_ruby25? ( dev-lang/ruby:2.5 ) ruby_targets_ruby26? ( dev-lang/ruby:2.6 )
+DESCRIPTION=OpenNebula Virtual Infrastructure Engine
+EAPI=7
+HOMEPAGE=http://www.opennebula.org/
+IUSE=qemu +mysql xen sqlite +extras systemd docker +sunstone vnc ruby_targets_ruby24 ruby_targets_ruby25 ruby_targets_ruby26
+LICENSE=Apache-2.0
+RDEPEND=>=dev-libs/xmlrpc-c-1.18.02[abyss,cxx,threads] dev-lang/ruby dev-lang/python extras? ( dev-libs/openssl dev-ruby/libxml net-misc/curl dev-libs/libxslt dev-libs/expat dev-ruby/uuidtools dev-ruby/amazon-ec2 dev-ruby/webmock dev-ruby/mysql dev-ruby/mysql2 dev-ruby/parse-cron dev-ruby/sequel dev-ruby/treetop dev-ruby/xml-simple dev-ruby/zendesk_api dev-libs/log4cpp ) mysql? ( virtual/mysql ) dev-db/sqlite net-misc/openssh net-fs/nfs-utils dev-db/mariadb net-libs/zeromq || ( app-cdr/cdrkit app-cdr/cdrtools ) sqlite? ( dev-ruby/sqlite3 ) qemu? ( app-emulation/libvirt[libvirtd,qemu] ) xen? ( app-emulation/xen-tools ) ruby_targets_ruby24? ( dev-lang/ruby:2.4 ) ruby_targets_ruby25? ( dev-lang/ruby:2.5 ) ruby_targets_ruby26? ( dev-lang/ruby:2.6 )
+REQUIRED_USE=|| ( ruby_targets_ruby24 ruby_targets_ruby25 ruby_targets_ruby26 )
+RESTRICT=test
+SLOT=0
+SRC_URI=https://github.com/OpenNebula/one/archive/release-5.10.3.tar.gz -> opennebula-5.10.3.tar.gz
+_eclasses_=estack	686eaab303305a908fd57b2fd7617800	eutils	fcb2aa98e1948b835b5ae66ca52868c5	multilib	1d91b03d42ab6308b5f4f6b598ed110e	ruby-ng	a1c89995f9f6dd045e93d13a92ca81a9	ruby-utils	cdb4c1e4283adb7707b7dd48ccaa7ad2	systemd	71fd8d2065d102753fb9e4d20eaf3e9f	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c	user	7b7fc6ec5eb1c1eee55b0609f01e7362	user-info	a2abd4e2f4c3b9b06d64bf1329359a02
+_md5_=1914d6b5ad40fa7bde8c55960806caf1
