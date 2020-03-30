@@ -169,7 +169,7 @@ dev-ruby/treetop 1.6.10-r1: Treetop is a language for describing languages
 dev-ruby/xmlparser 0.7.2.1: Ruby bindings to the Expat XML parsing library
 dev-ruby/zendesk_api 1.14.0: This client only supports Zendesk's v2 API.
 dev-util/clion 2019.1.4 2019.2.3 2019.2.5 2019.3.1 2019.3.4 2019.3.5: A complete toolset for C and C++ development
-dev-util/eclipse-sdk-bin 4.5.2 4.6.3 4.7.2 4.7.3 4.8.0 4.9.0 4.10.1 4.13.0 4.14.0: Eclipse SDK
+dev-util/eclipse-sdk-bin 4.5.2 4.6.3 4.7.2 4.7.3 4.8.0 4.9.0 4.10.1 4.13.0 4.14.0 4.15.0: Eclipse SDK
 dev-util/idea-community 2018.1.2.181.4668.68: A complete toolset for web, mobile and enterprise development
 dev-util/idea-ultimate 2018.2.5.182.4892.20 2018.2.6.182.5107.16 2018.3.0.183.4284.148 2018.3.2.183.4886.37 2018.3.3.183.5153.38 2018.3.4.183.5429.30 2018.3.5.183.5912.21 2018.3.6.183.6156.11 2019.1.2.191.7141.44 2019.1.3.191.7479.19 2019.1.4.191.8026.42 2019.2.3.192.6817.14 2019.2.4.192.7142.36 2019.3.0.193.5233.102 2019.3.1.193.5662.53 2019.3.3.193.6494.35 2019.3.4.193.6911.18: A complete toolset for web, mobile and enterprise development
 dev-util/nvidia-cuda-sdk 9.1.85-r1: NVIDIA CUDA Software Development Kit
