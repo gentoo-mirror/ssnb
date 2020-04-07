@@ -188,7 +188,7 @@ net-fs/samba 4.9.1-r1 4.9.2-r1: Samba Suite Version 4
 net-im/mattermost-desktop 1.3.0 3.7.0: Mattermost chat desktop client for Linux
 net-im/slack-desktop-bin 2.5.2 3.0.5: Official Slack Desktop Client
 net-im/stride-bin 1.17.82: Stride desktop client
-net-im/zoom-bin 2.0.115900.1201 2.1.103753.0521 2.7.162522.0121 2.9.265650.0716 3.0.301026.0930 3.5.336627.1216: Video conferencing and web conferencing service
+net-im/zoom-bin 3.5.336627.1216 3.5.374815.0324: Video conferencing and web conferencing service
 net-misc/axel 2.4-r3: Light Unix download accelerator
 net-misc/megasync 3.0.1 3.1.4 3.5.3 3.6.0-r1 3.6.0-r2 3.6.5 3.6.5-r1 3.6.6 3.6.6-r1 3.7.1-r1 4.0.2 4.1.1 4.2.0 4.2.3 4.2.5 4.2.5-r2 4.3.1-r1 9999: A Qt-based program for syncing your MEGA account in your PC. This is the official app.
 net-misc/meocloud-client 0.2.12: meocloud client
