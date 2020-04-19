@@ -9,7 +9,7 @@ app-admin/terraform-provider-libvirt 0.3 0.4.4 0.6.1: Terraform provider to prov
 app-admin/terraform-provider-opennebula 1.0.0: Terraform builds, changes, and combines infrastructure safely and efficiently
 app-benchmarks/phoronix-test-suite 8.8.1 9.0.1 9999: Phoronix's comprehensive, cross-platform testing and benchmark suite
 app-crypt/pesign 0.111 0.112: Tools for manipulating signed PE-COFF binaries
-app-editors/visual-studio-code 1.35.1 1.36.0 1.38.0 1.38.1 1.39.2 1.41.0 1.41.1 1.42.1 1.43.2: Multiplatform Visual Studio Code from Microsoft (binary version)
+app-editors/visual-studio-code 1.35.1 1.36.0 1.38.0 1.38.1 1.39.2 1.41.0 1.41.1 1.42.1 1.43.2 1.44.2: Multiplatform Visual Studio Code from Microsoft (binary version)
 app-emulation/libguestfs 1.28.5_p1-r3 1.36.11 1.37.35 1.38.6 1.40.2: Tools for accessing, inspect and modifying virtual machine (VM) disk images
 app-emulation/libguestfs-appliance 1.38.0 1.40.1: VM appliance disk image used in libguestfs package
 app-emulation/libvirt 3.10.0-r1 9999: C toolkit to manipulate virtual machines
