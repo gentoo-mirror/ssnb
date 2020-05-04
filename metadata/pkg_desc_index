@@ -13,7 +13,7 @@ app-editors/visual-studio-code 1.35.1 1.36.0 1.38.0 1.38.1 1.39.2 1.41.0 1.41.1 
 app-emulation/libguestfs 1.28.5_p1-r3 1.36.11 1.37.35 1.38.6 1.40.2: Tools for accessing, inspect and modifying virtual machine (VM) disk images
 app-emulation/libguestfs-appliance 1.38.0 1.40.1: VM appliance disk image used in libguestfs package
 app-emulation/libvirt 3.10.0-r1 9999: C toolkit to manipulate virtual machines
-app-emulation/opennebula 5.4.13 5.4.15 5.6.0 5.6.1 5.8.1 5.10.1 5.10.3: OpenNebula Virtual Infrastructure Engine
+app-emulation/opennebula 5.10.1 5.10.3 5.10.4: OpenNebula Virtual Infrastructure Engine
 app-emulation/supermin 5.1.18 9999: Tool for creating supermin appliances
 app-forensics/regviewer 0.1: RegViewer is GTK 2.2 based GUI Windows registry file navigator
 app-misc/autenticacao-gov-pt 2.0.46: O Autenticação.gov.pt é o mecanismo que permite utilizar o Cartão de Cidadão eficientemente e em segurança nos navegadores que suportem ou não plugins Java
@@ -157,18 +157,19 @@ dev-ruby/amazon-ec2 0.9.17: Client API for Amazon Web Services
 dev-ruby/aws 2.10.2: Client API for Amazon Web Services
 dev-ruby/azure 0.7.10: Microsoft Azure Client Library for Ruby
 dev-ruby/configparser 0.1.7: parses configuration files compatable with Python's ConfigParser
-dev-ruby/kgio 2.10.0: Mon-blocking I/O methods for Ruby without raising exceptions
+dev-ruby/ipaddress 0.8.3 0.13.0: Ruby library designed to make manipulation of IPv4 and IPv6 addresses.
+dev-ruby/kgio 2.10.0 2.11.3: Mon-blocking I/O methods for Ruby without raising exceptions
 dev-ruby/memcache-client 1.8.5: A Ruby library for accessing memcached
 dev-ruby/mysql 2.9.1: This is the MySQL API module for Ruby
 dev-ruby/parse-cron 0.1.4: Parse a crontab timing specification and determine when the job should be run.
-dev-ruby/raindrops 0.17.0: A real-time stats toolkit to show statistics for Rack HTTP servers
-dev-ruby/rubygems-update 2.6.8: This is the MySQL API module for Ruby
-dev-ruby/sequel 4.39.0: A lightweight database toolkit for Ruby
+dev-ruby/raindrops 0.17.0 0.19.1: A real-time stats toolkit to show statistics for Rack HTTP servers
+dev-ruby/rubygems-update 2.6.8 3.1.2: This is the MySQL API module for Ruby
+dev-ruby/sequel 4.39.0 5.32.0: A lightweight database toolkit for Ruby
 dev-ruby/thin 1.7.2: This a Ruby gem that delivers a thin and fast web server
-dev-ruby/tilt 2.0.6: Thin interface over template engines to make their usage as generic as possible
+dev-ruby/tilt 2.0.6 2.0.10: Thin interface over template engines to make their usage as generic as possible
 dev-ruby/treetop 1.6.10-r1: Treetop is a language for describing languages
 dev-ruby/xmlparser 0.7.2.1: Ruby bindings to the Expat XML parsing library
-dev-ruby/zendesk_api 1.14.0: This client only supports Zendesk's v2 API.
+dev-ruby/zendesk_api 1.14.0 1.26.0: This client only supports Zendesk's v2 API.
 dev-util/clion 2019.1.4 2019.2.3 2019.2.5 2019.3.1 2019.3.4 2019.3.5: A complete toolset for C and C++ development
 dev-util/eclipse-sdk-bin 4.5.2 4.6.3 4.7.2 4.7.3 4.8.0 4.9.0 4.10.1 4.13.0 4.14.0 4.15.0: Eclipse SDK
 dev-util/idea-community 2018.1.2.181.4668.68: A complete toolset for web, mobile and enterprise development
