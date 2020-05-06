@@ -12,7 +12,7 @@ HOMEPAGE="http://www.pitivi.org"
 
 LICENSE="LGPL-2.1"
 SLOT="0"
-KEYWORDS="amd64 x86"
+KEYWORDS="~amd64 ~x86"
 
 IUSE="v4l test"
 RESTRICT="!test? ( test )"
@@ -86,7 +86,7 @@ PATCHES=(
 
 src_prepare() {
 	default
-	sed -e "s|dependency('python3'|dependency('python3-embed'|" -i meson.build
+	sed -e "s|dependency('python3'|dependency('python-3.6'|" -i meson.build
 }
 
 src_configure() {
