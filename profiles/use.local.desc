@@ -88,6 +88,7 @@ dev-util/nvidia-cuda-toolkit:profiler - Installs the NVIDIA CUDA visual profiler
 dev-util/pycharm-community:jbr11 - Install and use the Java 11 based version of JetBrains Runtime.
 dev-util/pycharm-professional:jbr11 - Install and use the Java 11 based version of JetBrains Runtime.
 dev-util/rubymine:jbr11 - Install and use the Java 11 based version of JetBrains Runtime.
+dev-util/webstorm:jbr11 - Install and use the Java 11 based version of JetBrains Runtime.
 media-video/handbrake:fdk - Support for encoding AAC using media-libs/fdk-aac.
 media-video/handbrake:gstreamer - Support for the streaming media framework from media-libs/gstreamer.
 media-video/handbrake:gtk - Install the GTK UI, ghb.
