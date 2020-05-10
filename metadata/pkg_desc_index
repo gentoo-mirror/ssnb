@@ -45,7 +45,7 @@ dev-nodejs/array-unique 0.3.2: A package manager for the web
 dev-nodejs/assign-symbols 1.0.0: A package manager for the web
 dev-nodejs/async 2.6.1: A package manager for the web
 dev-nodejs/balanced-match 1.0.0: A package manager for the web
-dev-nodejs/bower 1.8.4: A package manager for the web
+dev-nodejs/bower 1.8.4 1.8.8: A package manager for the web
 dev-nodejs/brace-expansion 1.1.11: A package manager for the web
 dev-nodejs/braces 2.3.2: A package manager for the web
 dev-nodejs/chalk 2.4.1: A package manager for the web
