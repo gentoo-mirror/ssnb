@@ -64,6 +64,8 @@ DEPEND="${RDEPEND}
 	dev-ruby/bundler
 	dev-nodejs/grunt
 	dev-nodejs/bower
+	dev-nodejs/ini
+	dev-nodejs/braces
 	net-libs/nodejs[npm]
 	net-libs/libvncserver
 	app-text/ronn
@@ -221,7 +223,7 @@ src_install() {
 	rm -rf usr/share/docs
 
 	# install remaining files
-	insinto /usr/share/man/man1
+	insinto /usr/share/man
 	doins -r usr/share/man/man1/
 
 	# set correct owner
