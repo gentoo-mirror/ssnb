@@ -8,5 +8,5 @@ LICENSE=MIT
 RDEPEND=dev-nodejs/findup-sync dev-nodejs/grunt-known-options dev-nodejs/nopt dev-nodejs/resolve
 SLOT=0
 SRC_URI=http://registry.npmjs.org/grunt-cli/-/grunt-cli-1.2.0.tgz
-_eclasses_=multilib	797cda3549becfe50afdfa35192ca137	npm	587df1e08d5711cc44804a39a2aa7721	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
+_eclasses_=multilib	ac7989ababbeabdef6fdc6e465b21644	npm	587df1e08d5711cc44804a39a2aa7721	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
 _md5_=e2c3b8345b583a6ed551436e53ac855a
