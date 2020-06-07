@@ -190,7 +190,7 @@ dev-util/pycharm-community 2020.1-r1: Intelligent Python IDE with unique code as
 dev-util/pycharm-professional 2020.1-r1: Intelligent Python IDE with unique code assistance and analysis
 dev-util/rpmdevtools 9999: Collection of rpm packaging related utilities
 dev-util/rpmlint 1.5 1.10 9999: Tool for checking common errors in RPM packages
-dev-util/rubymine 2019.3.0 2019.3.1 2019.3.3 2019.3.4 2020.1.0 2020.1.1: The most intelligent Ruby and Rails IDE
+dev-util/rubymine 2019.3.0 2019.3.1 2019.3.3 2019.3.4 2020.1.0 2020.1.1 2020.1.2: The most intelligent Ruby and Rails IDE
 dev-util/webstorm 2017.2.5.172.4343.25 2020.1.1.201.7223.93: Intelligent Python IDE with unique code assistance and analysis
 dev-vcs/git-lfs 1.4.4: git extension for versioning large files
 media-libs/wxsvg 1.5.22: C++ library to create, manipulate and render SVG files
