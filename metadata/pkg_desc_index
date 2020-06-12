@@ -13,7 +13,7 @@ app-editors/visual-studio-code 1.35.1 1.36.0 1.38.0 1.38.1 1.39.2 1.41.0 1.41.1 
 app-emulation/libguestfs 1.28.5_p1-r3 1.36.11 1.37.35 1.38.6 1.40.2: Tools for accessing, inspect and modifying virtual machine (VM) disk images
 app-emulation/libguestfs-appliance 1.38.0 1.40.1: VM appliance disk image used in libguestfs package
 app-emulation/libvirt 3.10.0-r1 9999: C toolkit to manipulate virtual machines
-app-emulation/opennebula 5.10.1 5.10.4: OpenNebula Virtual Infrastructure Engine
+app-emulation/opennebula 5.10.1 5.10.4 5.10.5: OpenNebula Virtual Infrastructure Engine
 app-emulation/supermin 5.1.18 9999: Tool for creating supermin appliances
 app-forensics/regviewer 0.1: RegViewer is GTK 2.2 based GUI Windows registry file navigator
 app-misc/autenticacao-gov-pt 2.0.46: O Autenticação.gov.pt é o mecanismo que permite utilizar o Cartão de Cidadão eficientemente e em segurança nos navegadores que suportem ou não plugins Java
