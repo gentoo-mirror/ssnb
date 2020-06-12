@@ -5,6 +5,7 @@ DESCRIPTION=Tool for checking common errors in RPM packages
 EAPI=7
 HOMEPAGE=http://rpmlint.zarb.org/
 IUSE=python_targets_python3_6
+KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=python_targets_python3_6? ( dev-lang/python:3.6 ) >=dev-lang/python-exec-2:=[python_targets_python3_6(-)?,-python_single_target_python3_6(-)] app-arch/rpm[python] || ( dev-python/python-magic[python_targets_python3_6(-)?,-python_single_target_python3_6(-)] sys-apps/file[python_targets_python3_6(-)?,-python_single_target_python3_6(-)] ) dev-python/pyenchant[python_targets_python3_6(-)?,-python_single_target_python3_6(-)]
