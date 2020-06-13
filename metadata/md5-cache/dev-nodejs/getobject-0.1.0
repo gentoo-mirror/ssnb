@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=MIT
 SLOT=0
 SRC_URI=http://registry.npmjs.org/getobject/-/getobject-0.1.0.tgz
-_eclasses_=multilib	0914eab919f4f11dd9e0407b92af4726	npm	e9c75e7a8e93e06aaac0e8b49483bdb6	toolchain-funcs	d3e75048a89c0445838d2f44e5c65d97
+_eclasses_=multilib	ba693a7065ee4edc78b3ea02a015bcad	npm	e9c75e7a8e93e06aaac0e8b49483bdb6	toolchain-funcs	d3e75048a89c0445838d2f44e5c65d97
 _md5_=393e8a4725fb2a907f85f19335dfa9c9
