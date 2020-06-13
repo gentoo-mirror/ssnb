@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=MIT
 SLOT=0
 SRC_URI=http://registry.npmjs.org/detect-file/-/detect-file-1.0.0.tgz
-_eclasses_=multilib	0914eab919f4f11dd9e0407b92af4726	npm	587df1e08d5711cc44804a39a2aa7721	toolchain-funcs	d3e75048a89c0445838d2f44e5c65d97
+_eclasses_=multilib	0914eab919f4f11dd9e0407b92af4726	npm	e9c75e7a8e93e06aaac0e8b49483bdb6	toolchain-funcs	d3e75048a89c0445838d2f44e5c65d97
 _md5_=2ea390ee028f0c6bd1c7abfa2adbdc2f
