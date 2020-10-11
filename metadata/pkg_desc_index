@@ -189,7 +189,7 @@ dev-ruby/zendesk_api 1.26.0: This client only supports Zendesk's v2 API.
 dev-util/clion 2019.1.4 2019.2.3 2019.2.5 2019.3.1 2019.3.4 2019.3.5: A complete toolset for C and C++ development
 dev-util/eclipse-sdk-bin 4.5.2 4.6.3 4.7.2 4.7.3 4.8.0 4.9.0 4.10.1 4.13.0 4.14.0 4.15.0: Eclipse SDK
 dev-util/idea-community 2018.1.2.181.4668.68: A complete toolset for web, mobile and enterprise development
-dev-util/idea-ultimate 2019.3.0.193.5233.102 2019.3.1.193.5662.53 2019.3.3.193.6494.35 2019.3.4.193.6911.18 2020.1.0.201.6668.121: A complete toolset for web, mobile and enterprise development
+dev-util/idea-ultimate 2019.3.0.193.5233.102 2019.3.1.193.5662.53 2019.3.3.193.6494.35 2019.3.4.193.6911.18 2020.1.0.201.6668.121 2020.2.3.202.7660.26: A complete toolset for web, mobile and enterprise development
 dev-util/nvidia-cuda-sdk 9.1.85-r1: NVIDIA CUDA Software Development Kit
 dev-util/nvidia-cuda-toolkit 9.1.85-r1: NVIDIA CUDA Toolkit (compiler and friends)
 dev-util/osc 0.169.1 9999: Command line tool for Open Build Service
@@ -198,7 +198,7 @@ dev-util/pycharm-community 2020.1-r1: Intelligent Python IDE with unique code as
 dev-util/pycharm-professional 2020.1.2: Intelligent Python IDE with unique code assistance and analysis
 dev-util/rpmdevtools 9999: Collection of rpm packaging related utilities
 dev-util/rpmlint 1.11 9999: Tool for checking common errors in RPM packages
-dev-util/rubymine 2019.3.0 2019.3.1 2019.3.3 2019.3.4 2020.1.0 2020.1.1 2020.1.2: The most intelligent Ruby and Rails IDE
+dev-util/rubymine 2019.3.0 2019.3.1 2019.3.3 2019.3.4 2020.1.0 2020.1.1 2020.1.2 2020.1.4 2020.2.3: The most intelligent Ruby and Rails IDE
 dev-util/webstorm 2017.2.5.172.4343.25 2020.1.1.201.7223.93: Intelligent Python IDE with unique code assistance and analysis
 dev-vcs/git-lfs 1.4.4: git extension for versioning large files
 media-libs/wxsvg 1.5.22: C++ library to create, manipulate and render SVG files
