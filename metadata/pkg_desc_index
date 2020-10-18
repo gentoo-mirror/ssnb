@@ -216,6 +216,7 @@ net-misc/axel 2.4-r3: Light Unix download accelerator
 net-misc/megasync 4.3.1-r1 4.3.3 9999: A Qt-based program for syncing your MEGA account in your PC. This is the official app.
 net-misc/meocloud-client 0.2.12: meocloud client
 net-misc/meocloud-client-beta 0.2.29-r1: meocloud client
+net-misc/oidc-agent 3.3.5 9999: A set of tools to manage OpenID Connect tokens and make them easily usable from the command line
 net-nds/apachedirectorystudio 2.0.0.20180908 2.0.0.20180908-r1: Apache Directory Studio is an universal LDAP directory tool.
 net-p2p/amule 2.3.2-r2: aMule, the all-platform eMule p2p client
 sci-misc/rapidminer-studio 7.5.3 8.1.1: RapidMiner Studio Free
