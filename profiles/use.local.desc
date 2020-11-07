@@ -108,6 +108,11 @@ net-fs/samba:quota - Enables support for user quotas
 net-fs/samba:system-heimdal - Use app-crypt/heimdal instead of bundled heimdal.
 net-fs/samba:system-mitkrb5 - Use app-crypt/mit-krb5 instead of app-crypt/heimdal.
 net-fs/samba:winbind - Enables support for the winbind auth daemon
+net-misc/megasync:cryptopp - Compile with Crypto++ Library.
+net-misc/megasync:dolphin - Upload your files to your Mega account from Dolphin file manager.
+net-misc/megasync:freeimage - Use freeimage to manage graphic images format.
+net-misc/megasync:nautilus - Upload your files to your Mega account from nautilus.
+net-misc/megasync:thunar - Upload your files to your Mega account from Thunar.
 net-p2p/amule:daemon - Enable amule daemon
 net-p2p/amule:remote - Enable remote controlling of the client
 net-p2p/amule:stats - Enable statistic reporting
