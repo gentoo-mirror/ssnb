@@ -213,7 +213,7 @@ net-im/slack 4.10.3: Team collaboration tool
 net-im/stride-bin 1.17.82: Stride desktop client
 net-im/zoom-bin 3.5.336627.1216 3.5.374815.0324 3.5.383291.0407: Video conferencing and web conferencing service
 net-misc/axel 2.4-r3: Light Unix download accelerator
-net-misc/megasync 4.3.1-r1 4.3.3 9999: A Qt-based program for syncing your MEGA account in your PC. This is the official app.
+net-misc/megasync 4.3.1-r1 4.3.3 4.3.5 9999: A Qt-based program for syncing your MEGA account in your PC. This is the official app.
 net-misc/meocloud-client 0.2.12: meocloud client
 net-misc/meocloud-client-beta 0.2.29-r1: meocloud client
 net-misc/oidc-agent 3.3.5 9999: A set of tools to manage OpenID Connect tokens and make them easily usable from the command line
