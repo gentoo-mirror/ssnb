@@ -8,5 +8,5 @@ LICENSE=MIT
 RDEPEND=dev-nodejs/is-glob dev-nodejs/detect-file dev-nodejs/micromatch dev-nodejs/resolve-dir
 SLOT=0
 SRC_URI=http://registry.npmjs.org/findup-sync/-/findup-sync-2.0.0.tgz
-_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	npm	e9c75e7a8e93e06aaac0e8b49483bdb6	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
+_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	npm	e9c75e7a8e93e06aaac0e8b49483bdb6	toolchain-funcs	1a94dc06d324bd0dab754e11abe6d27e
 _md5_=9ff8384611b2b0ede331bf0cf0c7defa

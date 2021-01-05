@@ -8,5 +8,5 @@ LICENSE=MIT
 RDEPEND=dev-nodejs/component-emitter dev-nodejs/get-value dev-nodejs/source-map dev-nodejs/map-cache dev-nodejs/source-map-resolve
 SLOT=0
 SRC_URI=http://registry.npmjs.org/snapdragon/-/snapdragon-0.12.0.tgz
-_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	npm	e9c75e7a8e93e06aaac0e8b49483bdb6	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
+_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	npm	e9c75e7a8e93e06aaac0e8b49483bdb6	toolchain-funcs	1a94dc06d324bd0dab754e11abe6d27e
 _md5_=7eac6fb7a4e2547990019553e0c0d8c9
