@@ -37,10 +37,6 @@ app-admin/terraform:vcd - Builds the provider that is used to interact with the 
 app-admin/terraform:vsphere - Builds the provider that interacts with the resources supported by VMware vSphere http://www.vmware.com/products/vsphere
 app-admin/terraform-provider-libvirt:libvirt - Builds the terraform provider for libvirt
 app-admin/terraform-provider-opennebula:libvirt - Builds the terraform provider for opennebula
-app-emulation/libguestfs:erlang - Build Erlang bindings
-app-emulation/libguestfs:fuse - Enable image mount support via fuse
-app-emulation/libguestfs:inspect-icons - Use media-gfx/icoutilsfor acces icon file in image and inspect it
-app-emulation/libguestfs:systemtap - Use dev-util/systemtap to inspect VM via "probes" way
 app-emulation/libvirt:apparmor - Enable AppArmor support
 app-emulation/libvirt:firewalld - DBus interface to iptables/ebtables allowing for better runtime management of your firewall.
 app-emulation/libvirt:fuse - Allow LXC to use sys-fs/fuse for mount points
@@ -94,20 +90,6 @@ media-video/handbrake:gstreamer - Support for the streaming media framework from
 media-video/handbrake:gtk - Install the GTK UI, ghb.
 media-video/handbrake:libav-aac - Support for encoding AAC using media-video/libav's internal encoder.
 media-video/handbrake:x265 - Support for encoding h265 using media-libs/x265.
-net-fs/samba:addc - Enable Active Directory Domain Controller support
-net-fs/samba:addns - Enable AD DNS integration
-net-fs/samba:ads - Enable Active Directory support
-net-fs/samba:ceph - Enable support for Ceph distributed filesystem via sys-cluster/ceph
-net-fs/samba:client - Enables the client part
-net-fs/samba:cluster - Enable support for clustering
-net-fs/samba:dmapi - Enable support for DMAPI. This currently works only in combination with XFS.
-net-fs/samba:gpg - Use app-crypt/gpgme for AD DC
-net-fs/samba:iprint - Enabling iPrint technology by Novell
-net-fs/samba:json - Enable json audit support through dev-libs/jansson
-net-fs/samba:quota - Enables support for user quotas
-net-fs/samba:system-heimdal - Use app-crypt/heimdal instead of bundled heimdal.
-net-fs/samba:system-mitkrb5 - Use app-crypt/mit-krb5 instead of app-crypt/heimdal.
-net-fs/samba:winbind - Enables support for the winbind auth daemon
 net-misc/megasync:cryptopp - Compile with Crypto++ Library.
 net-misc/megasync:dolphin - Upload your files to your Mega account from Dolphin file manager.
 net-misc/megasync:freeimage - Use freeimage to manage graphic images format.
@@ -117,8 +99,5 @@ net-p2p/amule:daemon - Enable amule daemon
 net-p2p/amule:remote - Enable remote controlling of the client
 net-p2p/amule:stats - Enable statistic reporting
 sys-fs/vmfs-tools:fuse - Enable image mount support via fuse
-sys-fs/zfs:kernel-builtin - Disable dependency on sys-fs/zfs-kmod under the assumption that ZFS is part of the kernel source tree
-sys-fs/zfs:rootfs - Enable dependencies required for booting off a pool containing a rootfs
-sys-fs/zfs:test-suite - Install regression test suite
 sys-fs/zfs-kmod:rootfs - Install zfs-shutdown script to support exporting a pool containing rootfs
 www-client/google-chrome:plugins - Add system plugins path to launcher
