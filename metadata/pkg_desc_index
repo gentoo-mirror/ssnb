@@ -5,7 +5,6 @@ app-admin/keepass-plugin-agent 0.10.1: ssh agent plugin for KeePass 2.x
 app-admin/nvidia-docker 2.0.3: NVIDIA Docker
 app-admin/terraform 0.9.6 0.11.3 0.11.7: Terraform builds, changes, and combines infrastructure safely and efficiently
 app-admin/terraform-provider-libvirt 0.3 0.4.4 0.6.1: Terraform provider to provision infrastructure with Linux's KVM using libvirt
-app-admin/terraform-provider-opennebula 1.0.0: Terraform builds, changes, and combines infrastructure safely and efficiently
 app-benchmarks/phoronix-test-suite 8.8.1 9.0.1 9999: Phoronix's comprehensive, cross-platform testing and benchmark suite
 app-crypt/pesign 0.111 0.112: Tools for manipulating signed PE-COFF binaries
 app-editors/visual-studio-code 1.50.0 1.50.1 1.51.0 1.51.1 1.52.1 1.53.0: Multiplatform Visual Studio Code from Microsoft (binary version)
