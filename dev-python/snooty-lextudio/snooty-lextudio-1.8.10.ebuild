@@ -8,10 +8,10 @@ PYTHON_COMPAT=( pypy3 python3_{7,8,9} )
 inherit distutils-r1
 
 DESCRIPTION="Checks syntax of reStructuredText and code blocks nested within it"
-HOMEPAGE="https://github.com/myint/rstcheck"
-SRC_URI="mirror://pypi/${PN:0:1}/${PN}/${P}.tar.gz"
+HOMEPAGE="https://github.com/vscode-restructuredtext/snooty-parser"
+SRC_URI="mirror://pypi/${PN:0:1}/${PN}/${P}.dev0.tar.gz"
 
-LICENSE="MIT"
+LICENSE="Apache"
 SLOT="0"
 KEYWORDS="~amd64"
 
@@ -26,7 +26,7 @@ BDEPEND="
 	)
 "
 
-S="${WORKDIR}/${P}"
+S="${WORKDIR}/${P}.dev0"
 
 distutils_enable_tests pytest
 
