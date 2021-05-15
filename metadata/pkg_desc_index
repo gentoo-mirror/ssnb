@@ -195,7 +195,7 @@ dev-util/pycharm-professional 2020.1.2: Intelligent Python IDE with unique code 
 dev-util/rubymine 2019.3.0 2019.3.1 2019.3.3 2019.3.4 2020.1.0 2020.1.1 2020.1.2 2020.1.4 2020.2.3: The most intelligent Ruby and Rails IDE
 dev-util/webstorm 2017.2.5.172.4343.25 2020.1.1.201.7223.93: Intelligent Python IDE with unique code assistance and analysis
 dev-vcs/git-lfs 1.4.4: git extension for versioning large files
-media-libs/openimageio 2.2.13.0 2.2.13.1: A library for reading and writing images
+media-libs/openimageio 2.2.13.0 2.2.13.1 2.2.14.0: A library for reading and writing images
 media-libs/wxsvg 1.5.22: C++ library to create, manipulate and render SVG files
 media-video/dvdstyler 3.1.2: A cross-platform free DVD authoring application
 media-video/handbrake 1.0.7: Open-source, GPL-licensed, multiplatform, multithreaded video transcoder
