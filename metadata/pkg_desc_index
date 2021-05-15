@@ -19,7 +19,6 @@ app-office/freeoffice 976: A complete, free Microsoft Office-compatible alternat
 app-office/openoffice-bin 4.1.8: Apache OpenOffice productivity suite
 app-office/wps-office 11.1.0.9505: WPS Office is an office productivity suite
 app-office/yed 3.16.2.1: Diagram editor written in Java
-app-shells/oh-my-zsh 9999: A ready-to-use zsh configuration with plugins
 app-shells/zsh-syntax-highlighting 9999: Syntax highlighting (similar to the fish shell) for ZSH
 dev-embedded/arduino 1.6.8 1.6.9 1.6.13 1.8.5: An open-source AVR electronics prototyping platform
 dev-embedded/arduino-ide 1.6.8 1.6.9 1.6.13 1.8.5: An open-source AVR electronics prototyping platform
