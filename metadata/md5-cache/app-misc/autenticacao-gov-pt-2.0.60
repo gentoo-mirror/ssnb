@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile configure install prepare unpack
+DEPEND=sys-apps/pcsc-lite sys-apps/pcsc-tools app-crypt/ccid ( >=virtual/jdk-1.8:1.8 || ( >=dev-java/oracle-jdk-bin-1.8:1.8 dev-java/icedtea dev-java/icedtea-bin ) )
+DESCRIPTION=O plugin Autenticação.Gov (anteriormente designado por aplicação Autenticação.gov.pt) permite realizar o procedimento de autenticação com o Cartão de Cidadão sem necessidade de efetuar a instalação de qualquer componente no navegador
+EAPI=7
+HOMEPAGE=https://autenticacao.gov.pt/fa/ajuda/autenticacaogovpt.aspx
+INHERIT=unpacker eutils desktop
+KEYWORDS=~amd64 ~x86
+LICENSE=EUPL
+RDEPEND=sys-apps/pcsc-lite sys-apps/pcsc-tools app-crypt/ccid ( >=virtual/jdk-1.8:1.8 || ( >=dev-java/oracle-jdk-bin-1.8:1.8 dev-java/icedtea dev-java/icedtea-bin ) ) !app-misc/autenticacao-gov-pt:2 !app-misc/autenticacao-gov-pt:3
+SLOT=0
+SRC_URI=https://aplicacoes.autenticacao.gov.pt/plugin/plugin-autenticacao-gov.deb -> autenticacao-gov-pt-2.0.60.deb
+_eclasses_=toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	unpacker	517f16af48ee3ab88180dd58b5143213	edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	8cdd85e169b835d518bc2fd59f780d8e	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	2d5b3f4b315094768576b6799e4f926e	desktop	c0d27bf73aa08ca05b663dbd31fbef28
+_md5_=45006285685c7b7c96f150fd0bd43c40

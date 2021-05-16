@@ -12,7 +12,7 @@ app-emulation/libguestfs-appliance 1.38.0 1.40.1: VM appliance disk image used i
 app-emulation/libvirt 3.10.0-r1 9999: C toolkit to manipulate virtual machines
 app-emulation/supermin 5.1.18 9999: Tool for creating supermin appliances
 app-forensics/regviewer 0.1: RegViewer is GTK 2.2 based GUI Windows registry file navigator
-app-misc/autenticacao-gov-pt 2.0.46: O Autenticação.gov.pt é o mecanismo que permite utilizar o Cartão de Cidadão eficientemente e em segurança nos navegadores que suportem ou não plugins Java
+app-misc/autenticacao-gov-pt 2.0.60: O plugin Autenticação.Gov (anteriormente designado por aplicação Autenticação.gov.pt) permite realizar o procedimento de autenticação com o Cartão de Cidadão sem necessidade de efetuar a instalação de qualquer componente no navegador
 app-misc/cartao-cidadao-git 3.1.0: Portuguese Citizen Card Middleware
 app-misc/cartao-cidadao-svn 2.4.6 3.0.13-r1 3.0.16: Tools for authenticating with https://www.autenticacao.gov.pt/
 app-office/freeoffice 976: A complete, free Microsoft Office-compatible alternative office suite
