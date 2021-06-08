@@ -9,5 +9,5 @@ LICENSE=MIT
 RDEPEND=dev-nodejs/nanomatch dev-nodejs/extglob
 SLOT=0
 SRC_URI=http://registry.npmjs.org/micromatch/-/micromatch-3.1.10.tgz
-_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
+_eclasses_=multilib	ebdbaed22e873a5abe6205f41349b479	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
 _md5_=c5f5b45f314a82024bb8850dcfff6a77
