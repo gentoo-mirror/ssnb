@@ -9,5 +9,5 @@ LICENSE=MIT
 RDEPEND=dev-nodejs/safer-buffer
 SLOT=0
 SRC_URI=http://registry.npmjs.org/iconv-lite/-/iconv-lite-0.4.23.tgz
-_eclasses_=multilib	ebdbaed22e873a5abe6205f41349b479	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
+_eclasses_=multilib	ba7da83f763a749a2870c28785c6dc0b	toolchain-funcs	2545dc6f0aaecb2dea61424911e82674	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
 _md5_=e557a53f97fe3a863874038b5f48a0b2
