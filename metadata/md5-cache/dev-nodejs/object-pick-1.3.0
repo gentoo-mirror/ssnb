@@ -9,5 +9,5 @@ LICENSE=MIT
 RDEPEND=dev-nodejs/isobject
 SLOT=0
 SRC_URI=http://registry.npmjs.org/object.pick/-/object.pick-1.3.0.tgz
-_eclasses_=multilib	ba7da83f763a749a2870c28785c6dc0b	toolchain-funcs	2545dc6f0aaecb2dea61424911e82674	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
+_eclasses_=multilib	6f710a580aea2e8c7f5be70f8912ad43	toolchain-funcs	7a9551c9a6680454019664620505375a	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
 _md5_=dd349b6f8dcd071eb8809205e98ae403
