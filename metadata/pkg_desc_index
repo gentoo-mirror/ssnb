@@ -8,7 +8,6 @@ app-admin/terraform-provider-libvirt 0.3 0.4.4 0.6.1: Terraform provider to prov
 app-benchmarks/phoronix-test-suite 8.8.1 9.0.1 9999: Phoronix's comprehensive, cross-platform testing and benchmark suite
 app-crypt/pesign 0.111 0.112: Tools for manipulating signed PE-COFF binaries
 app-editors/visual-studio-code 1.56.2 1.57.1: Multiplatform Visual Studio Code from Microsoft (binary version)
-app-emulation/libguestfs-appliance 1.38.0 1.40.1: VM appliance disk image used in libguestfs package
 app-emulation/libvirt 3.10.0-r1 9999: C toolkit to manipulate virtual machines
 app-emulation/supermin 5.1.18 9999: Tool for creating supermin appliances
 app-forensics/regviewer 0.1: RegViewer is GTK 2.2 based GUI Windows registry file navigator
