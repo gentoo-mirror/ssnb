@@ -194,7 +194,6 @@ media-libs/openimageio 2.2.13.0 2.2.13.1 2.2.14.0: A library for reading and wri
 media-libs/wxsvg 1.5.22: C++ library to create, manipulate and render SVG files
 media-video/dvdstyler 3.1.2: A cross-platform free DVD authoring application
 media-video/handbrake 1.0.7: Open-source, GPL-licensed, multiplatform, multithreaded video transcoder
-media-video/qmplay2 18.04.01 9999: Qt-based video player, which can play all formats and stream
 net-im/mattermost-desktop 1.3.0 3.7.0: Mattermost chat desktop client for Linux
 net-im/slack 4.10.3: Team collaboration tool
 net-im/stride-bin 1.17.82: Stride desktop client
