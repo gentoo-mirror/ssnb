@@ -1,0 +1,14 @@
+BDEPEND=virtual/pkgconfig
+DEFINED_PHASES=install postinst prepare setup unpack
+DESCRIPTION=Maven Repository Manager
+EAPI=8
+HOMEPAGE=http://nexus.sonatype.org/
+INHERIT=systemd
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-3
+RDEPEND=>=virtual/jdk-1.8
+RESTRICT=mirror
+SLOT=3
+SRC_URI=http://download.sonatype.com/nexus/3/nexus-3.36.0-01-unix.tar.gz
+_eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	4b66d835ec72e021e359bb81eacfe988	systemd	2736b403a83f194b59b767f3b344c2c1
+_md5_=f82f6af5bdc1510f120de8501f5ec628
