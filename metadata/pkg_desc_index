@@ -205,7 +205,7 @@ net-misc/oidc-agent 4.0.2: Agent and tools for managing OpenID Connect tokens on
 net-nds/apachedirectorystudio 2.0.0.20180908 2.0.0.20180908-r1: Apache Directory Studio is an universal LDAP directory tool.
 sci-misc/rapidminer-studio 7.5.3 8.1.1: RapidMiner Studio Free
 sys-apps/pcm 201902.0 999999: Processor Counter Monitor (PCM) is an application programming interface (API) and a set of tools based on the API to monitor performance and energy metrics of Intel processors
-sys-block/partclone 0.3.12 9999: Partition cloning tool
+sys-block/partclone 0.3.12 0.3.18 9999: Partition cloning tool
 sys-fs/btrfsmaintenance 0.3.1 9999: Scripts for btrfs periodic maintenance task
 sys-fs/vmfs-tools 0.2.5: Tools for vmfs
 sys-fs/zrep 1.5.5 1.6.1 1.6.2 1.6.3 1.7.2 1.7.3 1.7.5 1.7.6 1.7.7 1.8.0 9999: ZFS based replication and failover solution
