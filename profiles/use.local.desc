@@ -85,4 +85,21 @@ net-misc/megasync:dolphin - Upload your files to your Mega account from Dolphin 
 net-misc/megasync:freeimage - Use freeimage to manage graphic images format.
 net-misc/megasync:nautilus - Upload your files to your Mega account from nautilus.
 net-misc/megasync:thunar - Upload your files to your Mega account from Thunar.
+sys-block/partclone:apfs - Compile partclone apfs tool
+sys-block/partclone:btrfs - Compile partclone btrfs tool
+sys-block/partclone:e2fs - Compile partclone e2fs tool
+sys-block/partclone:exfat - Compile partclone exfat tool
+sys-block/partclone:f2fs - Compile partclone f2fs tool
+sys-block/partclone:fat - Compile partclone fat tool
+sys-block/partclone:fuse - Compile partclone fuse tool
+sys-block/partclone:hfs - Compile partclone hfs tool
+sys-block/partclone:jfs - Compile partclone jfs tool
+sys-block/partclone:minix - Compile partclone minix tool
+sys-block/partclone:nilfs2 - Compile partclone nilfs2 tool
+sys-block/partclone:ntfs - Compile partclone ntfs tool
+sys-block/partclone:reiser4 - Compile partclone reiser4 tool
+sys-block/partclone:reiserfs - Compile partclone reiserfs tool
+sys-block/partclone:ufs - Compile partclone ufs tool
+sys-block/partclone:vmfs - Compile partclone vmfs tool
+sys-block/partclone:xfs - Compile partclone xfs tool
 sys-fs/vmfs-tools:fuse - Enable image mount support via fuse
