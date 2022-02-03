@@ -69,7 +69,6 @@ dev-util/idea-ultimate:jbr8 - Install and use the Java 8 based version of JetBra
 dev-util/pycharm-community:jbr11 - Install and use the Java 11 based version of JetBrains Runtime.
 dev-util/pycharm-professional:jbr11 - Install and use the Java 11 based version of JetBrains Runtime.
 dev-util/rubymine:jbr11 - Install and use the Java 11 based version of JetBrains Runtime.
-dev-util/webstorm:jbr11 - Install and use the Java 11 based version of JetBrains Runtime.
 media-libs/openimageio:dicom - Enable DICOM medical image file support via sci-libs/dcmtk
 media-libs/openimageio:field3d - Enable f3d file (write) support via media-libs/Field3D
 media-libs/openimageio:opencv - Enable OpenCV support via media-libs/opencv
