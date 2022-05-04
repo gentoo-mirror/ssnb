@@ -200,6 +200,7 @@ net-misc/meocloud-client 0.2.12: meocloud client
 net-misc/meocloud-client-beta 0.2.29-r1: meocloud client
 net-misc/oidc-agent 4.0.2: Agent and tools for managing OpenID Connect tokens on the command line
 net-nds/apachedirectorystudio 2.0.0.20210717.17: Apache Directory Studio is an universal LDAP directory tool.
+sci-mathematics/octave 6.4.0-r2: High-level interactive language for numerical computations
 sys-block/partclone 0.3.12 0.3.18 9999: Partition cloning tool
 sys-fs/btrfsmaintenance 0.3.1 9999: Scripts for btrfs periodic maintenance task
 sys-fs/vmfs-tools 0.2.5: Tools for vmfs
