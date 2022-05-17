@@ -8,5 +8,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=MIT
 SLOT=0
 SRC_URI=http://registry.npmjs.org/lodash/-/lodash-4.17.10.tgz
-_eclasses_=multilib	4a33c9008e5ee30cb8840a3fdc24df2b	toolchain-funcs	fd9cde67030b26e479eeadaced488253	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
+_eclasses_=multilib	4fbbbc98f236f1b43acd99476bc3cd85	toolchain-funcs	fd9cde67030b26e479eeadaced488253	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
 _md5_=f94397b1a73bd46681fb4a09e6d125b1
