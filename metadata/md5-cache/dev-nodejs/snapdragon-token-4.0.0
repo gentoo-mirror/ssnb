@@ -8,5 +8,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=MIT
 SLOT=0
 SRC_URI=http://registry.npmjs.org/snapdragon-token/-/snapdragon-token-4.0.0.tgz
-_eclasses_=multilib	4fbbbc98f236f1b43acd99476bc3cd85	toolchain-funcs	fd9cde67030b26e479eeadaced488253	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
+_eclasses_=multilib	4fbbbc98f236f1b43acd99476bc3cd85	toolchain-funcs	e9da88162e7a3c60376e80c2c2adcdfb	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
 _md5_=a8f7f2735fa68f730738a9ce3da7139a
