@@ -1,12 +1,10 @@
 app-admin/chefdk-omnibus 0.16.28 1.2.22 1.3.40 1.3.43 1.4.3 1.6.1 2.3.4 2.4.17 2.5.3 3.1.0: Omnibus installation of ChefDK
-app-admin/enpass 5.0.5 5.3.0: A cross-platform, complete password management solution that securely manages passwords and all other life important credentials like bank accounts, Credit cards, IDs, passport, driving licenses etc. Everything is saved locally on user’s device and optionally he can sync through other devices using his accounts of Dropbox, Box, Google Drive, OneDrive, iCloud and ownCloud.
 app-admin/keeagent 0.8.1: ssh agent plugin for KeePass 2.x
 app-admin/keepass-plugin-agent 0.10.1: ssh agent plugin for KeePass 2.x
 app-admin/nvidia-docker 2.0.3: NVIDIA Docker
 app-admin/terraform 0.9.6 0.11.3 0.11.7: Terraform builds, changes, and combines infrastructure safely and efficiently
 app-admin/terraform-provider-libvirt 0.3 0.4.4 0.6.1: Terraform provider to provision infrastructure with Linux's KVM using libvirt
 app-benchmarks/phoronix-test-suite 8.8.1 9.0.1 9999: Phoronix's comprehensive, cross-platform testing and benchmark suite
-app-crypt/pesign 0.111 0.112: Tools for manipulating signed PE-COFF binaries
 app-editors/visual-studio-code 1.65.2 1.66.1 1.66.2 1.67.1: Multiplatform Visual Studio Code from Microsoft (binary version)
 app-emulation/libvirt 3.10.0-r1 9999: C toolkit to manipulate virtual machines
 app-emulation/supermin 5.1.18 9999: Tool for creating supermin appliances
@@ -19,8 +17,6 @@ app-office/openoffice-bin 4.1.8: Apache OpenOffice productivity suite
 app-office/wps-office 11.1.0.9505: WPS Office is an office productivity suite
 app-shells/zsh-syntax-highlighting 9999: Syntax highlighting (similar to the fish shell) for ZSH
 dev-embedded/arduino 1.6.8 1.6.9 1.6.13 1.8.5: An open-source AVR electronics prototyping platform
-dev-embedded/arduino-ide 1.6.8 1.6.9 1.6.13 1.8.5: An open-source AVR electronics prototyping platform
-dev-embedded/arduino-libs 1.6.8 1.6.9 1.6.13 1.8.5: An open-source AVR electronics prototyping platform
 dev-go/dep 0.5.4: A Go's dependency management tool
 dev-java/nexus-oss-bin 3.34.1 3.35.0 3.36.0: Maven Repository Manager
 dev-java/sbt 1.1.2 1.3.6: sbt is a build tool for Scala and Java projects that aims to do the basics well
@@ -162,7 +158,6 @@ dev-ruby/ipaddress 0.8.3 0.13.0: Ruby library designed to make manipulation of I
 dev-ruby/kgio 2.10.0 2.11.3: Mon-blocking I/O methods for Ruby without raising exceptions
 dev-ruby/make 0.3.1: A gem that shortcuts typing out forms and tables for SQL users
 dev-ruby/memcache-client 1.8.5: A Ruby library for accessing memcached
-dev-ruby/mysql 2.9.1: This is the MySQL API module for Ruby
 dev-ruby/parse-cron 0.1.4: Parse a crontab timing specification and determine when the job should be run.
 dev-ruby/rack-protection 2.1.0: This gem protects against typical web attacks
 dev-ruby/raindrops 0.17.0 0.19.1: A real-time stats toolkit to show statistics for Rack HTTP servers
@@ -173,7 +168,6 @@ dev-ruby/ruby_dev 0.1.0: Gem for Ruby development
 dev-ruby/rubygems-update 2.6.8 3.1.2: This is the MySQL API module for Ruby
 dev-ruby/sequel 4.39.0 5.32.0 5.36.0: A lightweight database toolkit for Ruby
 dev-ruby/sinatra 2.1.0: A DSL for quickly creating web applications in Ruby with minimal effort
-dev-ruby/thin 1.7.2: This a Ruby gem that delivers a thin and fast web server
 dev-ruby/tilt 2.0.6 2.0.10: Thin interface over template engines to make their usage as generic as possible
 dev-ruby/treetop 1.6.10-r1: Treetop is a language for describing languages
 dev-ruby/webmock 3.9.1: Allows stubbing HTTP requests and setting expectations on HTTP requests
@@ -181,7 +175,6 @@ dev-ruby/xmlparser 0.7.2.1: Ruby bindings to the Expat XML parsing library
 dev-ruby/zendesk_api 1.26.0: This client only supports Zendesk's v2 API.
 dev-util/clion 2019.1.4 2019.2.3 2019.2.5 2019.3.1 2019.3.4 2019.3.5: A complete toolset for C and C++ development
 dev-util/eclipse-sdk-bin 4.5.2 4.6.3 4.7.2 4.7.3 4.8.0 4.9.0 4.10.1 4.13.0 4.14.0 4.15.0: Eclipse SDK
-dev-util/idea-community 2018.1.2.181.4668.68: A complete toolset for web, mobile and enterprise development
 dev-util/idea-ultimate 2019.3.0.193.5233.102 2019.3.1.193.5662.53 2019.3.3.193.6494.35 2019.3.4.193.6911.18 2020.1.0.201.6668.121 2020.2.3.202.6397.94 2020.2.3.202.7660.26 2021.1.0.211.6693.111: A complete toolset for web, mobile and enterprise development
 dev-util/phpstorm 2016.3.2.163.10504.2 2016.3.3.163.13906.21 2017.1.1.171.4073.14 2017.1.3.171.4424.11 2017.1.4.171.4694.2 2017.2.2.172.3968.35: PhpStorm
 dev-util/pycharm-community 2020.1-r1: Intelligent Python IDE with unique code assistance and analysis
@@ -192,9 +185,7 @@ media-libs/openimageio 2.2.13.0 2.2.13.1 2.2.14.0: A library for reading and wri
 media-libs/wxsvg 1.5.22: C++ library to create, manipulate and render SVG files
 media-video/dvdstyler 3.1.2: A cross-platform free DVD authoring application
 media-video/handbrake 1.0.7: Open-source, GPL-licensed, multiplatform, multithreaded video transcoder
-net-im/mattermost-desktop 1.3.0 3.7.0: Mattermost chat desktop client for Linux
 net-im/slack 4.25.1: Team collaboration tool
-net-misc/axel 2.4-r3: Light Unix download accelerator
 net-misc/megasync 4.5.0.0 9999: The official Qt-based program for syncing your MEGA account in your PC
 net-misc/meocloud-client 0.2.12: meocloud client
 net-misc/meocloud-client-beta 0.2.29-r1: meocloud client
@@ -203,6 +194,5 @@ net-nds/apachedirectorystudio 2.0.0.20210717.17: Apache Directory Studio is an u
 sci-mathematics/octave 6.4.0-r2: High-level interactive language for numerical computations
 sys-block/partclone 0.3.12 0.3.18 9999: Partition cloning tool
 sys-fs/btrfsmaintenance 0.3.1 9999: Scripts for btrfs periodic maintenance task
-sys-fs/vmfs-tools 0.2.5: Tools for vmfs
 sys-fs/zrep 1.8.0 9999: ZFS based replication and failover solution
 x11-misc/x11vnc 0.9.15: A VNC server for real X displays
