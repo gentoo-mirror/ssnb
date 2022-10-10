@@ -9,5 +9,5 @@ LICENSE=MIT
 RDEPEND=dev-nodejs/posix-character-classes
 SLOT=0
 SRC_URI=http://registry.npmjs.org/expand-brackets/-/expand-brackets-4.0.0.tgz
-_eclasses_=multilib	5ca4e49abed8e3a2f7b56920eadee157	toolchain-funcs	1542e649be915f43f6908a9e93909961	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
+_eclasses_=multilib	5ca4e49abed8e3a2f7b56920eadee157	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
 _md5_=767e4ef24b34ddeea1ae81b69df2766b
