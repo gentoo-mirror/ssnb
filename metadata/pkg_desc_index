@@ -8,8 +8,6 @@ app-admin/terraform-provider-libvirt 0.3 0.4.4 0.6.1: Terraform provider to prov
 app-benchmarks/phoronix-test-suite 8.8.1 9.0.1 9999: Phoronix's comprehensive, cross-platform testing and benchmark suite
 app-crypt/pesign 115: Tools for manipulating signed PE-COFF binaries
 app-editors/visual-studio-code 1.65.2 1.66.1 1.66.2 1.67.1: Multiplatform Visual Studio Code from Microsoft (binary version)
-app-emulation/libvirt 3.10.0-r1 9999: C toolkit to manipulate virtual machines
-app-emulation/supermin 5.1.18 9999: Tool for creating supermin appliances
 app-forensics/regviewer 0.1: RegViewer is GTK 2.2 based GUI Windows registry file navigator
 app-misc/autenticacao-gov-pt 2.0.60: O plugin Autenticação.Gov (anteriormente designado por aplicação Autenticação.gov.pt) permite realizar o procedimento de autenticação com o Cartão de Cidadão sem necessidade de efetuar a instalação de qualquer componente no navegador
 app-misc/cartao-cidadao-git 3.5.0: Portuguese Citizen Card Middleware
@@ -195,7 +193,5 @@ net-misc/oidc-agent 4.0.2: Agent and tools for managing OpenID Connect tokens on
 net-nds/apachedirectorystudio 2.0.0.20210717.17: Apache Directory Studio is an universal LDAP directory tool.
 sci-mathematics/octave 6.4.0-r2: High-level interactive language for numerical computations
 sys-block/partclone 0.3.12 0.3.18 9999: Partition cloning tool
-sys-fs/btrfsmaintenance 0.3.1 9999: Scripts for btrfs periodic maintenance task
 sys-fs/vmfs-tools 0.2.5: Tools for vmfs
-sys-fs/zrep 1.8.0 9999: ZFS based replication and failover solution
 x11-misc/x11vnc 0.9.15: A VNC server for real X displays
