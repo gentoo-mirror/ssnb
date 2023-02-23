@@ -8,5 +8,5 @@ LICENSE=EPL-1.0
 RDEPEND=>=virtual/jdk-1.8 x11-libs/gtk+:2
 SLOT=4.24
 SRC_URI=amd64? ( https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2022-06/R/eclipse-java-2022-06-R-linux-gtk-x86_64.tar.gz&r=1 -> eclipse-java-2022-06-R-linux-gtk-x86_64-4.24.0.tar.gz )
-_eclasses_=desktop	7eb20ad915a0a318176d51bc2508ff5c
+_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d
 _md5_=abcd3484ad1c0ee1beafcca5ddf64bc0
