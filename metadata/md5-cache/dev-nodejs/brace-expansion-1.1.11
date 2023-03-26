@@ -9,5 +9,5 @@ LICENSE=MIT
 RDEPEND=dev-nodejs/balanced-match dev-nodejs/concat-map
 SLOT=0
 SRC_URI=http://registry.npmjs.org/brace-expansion/-/brace-expansion-1.1.11.tgz
-_eclasses_=multilib	5ca4e49abed8e3a2f7b56920eadee157	toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
+_eclasses_=multilib	d1408425c7c4a7669b9b17735404b693	toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
 _md5_=3b5a0fb19126b748f10b776ced76f57d
