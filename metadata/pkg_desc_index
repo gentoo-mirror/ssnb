@@ -142,37 +142,8 @@ dev-python/nvidia-ml-py3 7.352.0: Python 3 Bindings for the NVIDIA Management Li
 dev-python/rstcheck 6.1.1: Checks syntax of reStructuredText and code blocks nested within it
 dev-python/snooty-lextudio 1.8.10: Checks syntax of reStructuredText and code blocks nested within it
 dev-python/sphinx-tabs 1.3.0: Create tabbed content in Sphinx documentation when building HTML
-dev-ruby/amazon-ec2 0.9.17: Client API for Amazon Web Services
-dev-ruby/aws 2.10.2: Client API for Amazon Web Services
-dev-ruby/azure 0.7.10: Microsoft Azure Client Library for Ruby
-dev-ruby/chunky_png 1.3.11: This pure Ruby library can read and write PNG images without depending on an external image library, like RMagick.
-dev-ruby/configparser 0.1.7: parses configuration files compatable with Python's ConfigParser
-dev-ruby/faraday 1.0.1: HTTP/REST API client library with pluggable components
-dev-ruby/ffi-rzmq 2.0.7: This gem wraps the ZeroMQ networking library using the ruby FFI (foreign function interface).
-dev-ruby/ffi-rzmq-core 1.0.7: This gem provides only the FFI wrapper for the ZeroMQ (0mq) networking library.
-dev-ruby/hashie 4.1.0: Hashie is a small collection of tools that make hashes more powerful
-dev-ruby/inflection 1.0.0: Support library for inflections.
-dev-ruby/ipaddress 0.8.3 0.13.0: Ruby library designed to make manipulation of IPv4 and IPv6 addresses.
-dev-ruby/kgio 2.10.0 2.11.3: Mon-blocking I/O methods for Ruby without raising exceptions
-dev-ruby/make 0.3.1: A gem that shortcuts typing out forms and tables for SQL users
-dev-ruby/memcache-client 1.8.5: A Ruby library for accessing memcached
 dev-ruby/mysql 2.9.1: This is the MySQL API module for Ruby
-dev-ruby/parse-cron 0.1.4: Parse a crontab timing specification and determine when the job should be run.
-dev-ruby/rack-protection 2.1.0: This gem protects against typical web attacks
-dev-ruby/raindrops 0.17.0 0.19.1: A real-time stats toolkit to show statistics for Rack HTTP servers
-dev-ruby/rotp 6.0.0 6.1.0: Works for both HOTP and TOTP, and includes QR Code provisioning.
-dev-ruby/rqrcode 1.1.2: rqrcode is a library for encoding QR Codes.
-dev-ruby/rqrcode_core 0.1.2: rqrcode_core is a Ruby library for encoding QR Codes.
-dev-ruby/ruby_dev 0.1.0: Gem for Ruby development
-dev-ruby/rubygems-update 2.6.8 3.1.2: This is the MySQL API module for Ruby
-dev-ruby/sequel 4.39.0 5.32.0 5.36.0: A lightweight database toolkit for Ruby
-dev-ruby/sinatra 2.1.0: A DSL for quickly creating web applications in Ruby with minimal effort
 dev-ruby/thin 1.8.1: This a Ruby gem that delivers a thin and fast web server
-dev-ruby/tilt 2.0.6 2.0.10: Thin interface over template engines to make their usage as generic as possible
-dev-ruby/treetop 1.6.10-r1: Treetop is a language for describing languages
-dev-ruby/webmock 3.9.1: Allows stubbing HTTP requests and setting expectations on HTTP requests
-dev-ruby/xmlparser 0.7.2.1: Ruby bindings to the Expat XML parsing library
-dev-ruby/zendesk_api 1.26.0: This client only supports Zendesk's v2 API.
 dev-util/clion 2019.1.4 2019.2.3 2019.2.5 2019.3.1 2019.3.4 2019.3.5: A complete toolset for C and C++ development
 dev-util/eclipse-sdk-bin 4.24.0: Eclipse SDK
 dev-util/idea-ultimate 2019.3.0.193.5233.102 2019.3.1.193.5662.53 2019.3.3.193.6494.35 2019.3.4.193.6911.18 2020.1.0.201.6668.121 2020.2.3.202.6397.94 2020.2.3.202.7660.26 2021.1.0.211.6693.111: A complete toolset for web, mobile and enterprise development
