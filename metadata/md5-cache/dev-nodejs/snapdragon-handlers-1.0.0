@@ -9,5 +9,5 @@ LICENSE=MIT
 RDEPEND=dev-nodejs/sellside-emitter dev-nodejs/use
 SLOT=0
 SRC_URI=http://registry.npmjs.org/snapdragon-handlers/-/snapdragon-handlers-1.0.0.tgz
-_eclasses_=multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
+_eclasses_=multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
 _md5_=016e4016ca00d986c82683297067f0c0
