@@ -9,5 +9,5 @@ LICENSE=MIT
 RDEPEND=dev-nodejs/ret
 SLOT=0
 SRC_URI=http://registry.npmjs.org/safe-regex/-/safe-regex-1.1.0.tgz
-_eclasses_=multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
+_eclasses_=multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	67b3e3d8916d690003f645486ed86aac	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
 _md5_=c82715324951dac630605afb033e7d8c
