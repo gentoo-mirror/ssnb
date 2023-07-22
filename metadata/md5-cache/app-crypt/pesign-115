@@ -9,5 +9,5 @@ LICENSE=GPL-2
 RDEPEND=dev-libs/nspr !libressl? ( dev-libs/openssl:0= ) libressl? ( dev-libs/libressl:0= ) sys-apps/util-linux
 SLOT=0
 SRC_URI=https://github.com/rhboot/pesign/archive/115.tar.gz -> pesign-115.tar.gz
-_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	fc2af1957597c539ae6e48f82bd43125
+_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	8e3fb781f3258ae2757d1dfc2c7c170e
 _md5_=c45426045d62acce403f6ff16f2da82d

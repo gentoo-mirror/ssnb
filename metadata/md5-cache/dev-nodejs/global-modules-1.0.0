@@ -9,5 +9,5 @@ LICENSE=MIT
 RDEPEND=dev-nodejs/global-prefix dev-nodejs/is-windows
 SLOT=0
 SRC_URI=http://registry.npmjs.org/global-modules/-/global-modules-1.0.0.tgz
-_eclasses_=multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	fc2af1957597c539ae6e48f82bd43125	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
+_eclasses_=multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	8e3fb781f3258ae2757d1dfc2c7c170e	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
 _md5_=10a4c09b399596176254453e2190fa00
