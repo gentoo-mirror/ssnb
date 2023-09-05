@@ -1,0 +1,17 @@
+BDEPEND=dev-util/patchelf
+DEFINED_PHASES=install prepare unpack
+DEPEND=!dev-util/idea-ultimate:14 !dev-util/idea-ultimate:15
+DESCRIPTION=A complete toolset for web, mobile and enterprise development
+EAPI=8
+HOMEPAGE=https://www.jetbrains.com/idea
+INHERIT=desktop
+IUSE=-jbr8 -jbr11 -jbr17
+KEYWORDS=~amd64 ~x86
+LICENSE=IDEA || ( IDEA_Academic IDEA_Classroom IDEA_OpenSource IDEA_Personal )
+RDEPEND=!dev-util/idea-ultimate:14 !dev-util/idea-ultimate:15 >=virtual/jdk-1.7:* dev-java/jansi-native dev-libs/libdbusmenu dev-util/lldb
+REQUIRED_USE=jbr8? ( !jbr11 !jbr17 ) jbr11? ( !jbr8 !jbr17 ) jbr17? ( !jbr8 !jbr11 )
+RESTRICT=splitdebug
+SLOT=0
+SRC_URI=https://download.jetbrains.com/idea/ideaIU-2023.2.1.tar.gz -> ideaIU-232.9559.62.tar.gz jbr8? ( x86? ( https://bintray.com/jetbrains/intellij-jdk/download_file?file_path=jbrx-8u202-linux-i586-b1483.37.tar.gz -> jbrx-8u202-linux-i586-b1483.37.tar.gz ) amd64? ( https://bintray.com/jetbrains/intellij-jdk/download_file?file_path=jbrx-8u202-linux-x64-b1483.37.tar.gz -> jbrx-8u202-linux-x64-b1483.37.tar.gz ) ) jbr11? ( amd64? ( https://bintray.com/jetbrains/intellij-jdk/download_file?file_path=jbr-11_0_2-linux-x64-b164.tar.gz -> jbr-11_0_2-linux-x64-b164.tar.gz ) ) jbr17? ( amd64? ( https://cache-redirector.jetbrains.com/intellij-jbr/jbr-17.0.8-linux-x64-b1000.22.tar.gz -> jbr-17.0.8-linux-x64-b1000.22.tar.gz ) )
+_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d
+_md5_=1175f0503aebe4c7c39569b960d50702
