@@ -9,6 +9,8 @@ app-benchmarks/phoronix-test-suite 8.8.1 9.0.1 9999: Phoronix's comprehensive, c
 app-crypt/pesign 115: Tools for manipulating signed PE-COFF binaries
 app-editors/visual-studio-code 1.65.2 1.66.1 1.66.2 1.67.1: Multiplatform Visual Studio Code from Microsoft (binary version)
 app-forensics/regviewer 0.1: RegViewer is GTK 2.2 based GUI Windows registry file navigator
+app-misc/autenticacao-gov-pt 2.0.75: O plugin Autenticação.Gov (anteriormente designado por aplicação Autenticação.gov.pt) permite realizar o procedimento de autenticação com o Cartão de Cidadão sem necessidade de efetuar a instalação de qualquer componente no navegador
+app-misc/cartao-cidadao-git 3.11.0: Portuguese Citizen Card Middleware
 app-misc/cartao-cidadao-svn 3.0.16: Tools for authenticating with https://www.autenticacao.gov.pt/
 app-office/freeoffice 976: A complete, free Microsoft Office-compatible alternative office suite
 app-office/openoffice-bin 4.1.8: Apache OpenOffice productivity suite
