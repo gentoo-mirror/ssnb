@@ -1,0 +1,10 @@
+DEFINED_PHASES=install postinst
+DEPEND=|| ( >=virtual/jre-1.8 >=virtual/jdk-1.8 )
+DESCRIPTION=PhpStorm
+EAPI=8
+HOMEPAGE=http://www.jetbrains.com/phpstorm/
+KEYWORDS=~x86 ~amd64
+RESTRICT=strip mirror
+SLOT=0
+SRC_URI=https://download.jetbrains.com/webide/PhpStorm-2023.2.2.tar.gz -> PhpStorm-232.9921.55.tar.gz
+_md5_=2e37f45886d9dca20de52b09b08a1aee
