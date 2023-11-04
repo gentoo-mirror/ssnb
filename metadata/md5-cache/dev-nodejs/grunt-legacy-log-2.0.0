@@ -9,5 +9,5 @@ LICENSE=MIT
 RDEPEND=dev-nodejs/colors dev-nodejs/grunt-legacy-log-utils dev-nodejs/hooker dev-nodejs/lodash
 SLOT=0
 SRC_URI=http://registry.npmjs.org/grunt-legacy-log/-/grunt-legacy-log-2.0.0.tgz
-_eclasses_=multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	70ec42843fec87d20fd94c67e77cdbff	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
+_eclasses_=multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	edeef89edaf21d30225d31702ab117ac	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
 _md5_=68563a3b646aa50472703a0961b81f1e
