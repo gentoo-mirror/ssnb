@@ -9,5 +9,5 @@ LICENSE=MIT
 RDEPEND=dev-nodejs/argparse dev-nodejs/esprima
 SLOT=0
 SRC_URI=http://registry.npmjs.org/js-yaml/-/js-yaml-3.12.0.tgz
-_eclasses_=multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
+_eclasses_=multilib	c19072c3cd7ac5cb21de013f7e9832e0	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	npm	e9c75e7a8e93e06aaac0e8b49483bdb6
 _md5_=01510ee167d514bcf7302988b74a1ce7
