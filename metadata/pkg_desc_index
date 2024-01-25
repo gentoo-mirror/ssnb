@@ -175,7 +175,7 @@ dev-ruby/webmock 3.18.1: Allows stubbing HTTP requests and setting expectations 
 dev-ruby/xmlparser 0.7.2.1: Ruby bindings to the Expat XML parsing library
 dev-ruby/zendesk_api 2.0.1: This client only supports Zendesk's v2 API.
 dev-util/eclipse-sdk-bin 4.24.0: Eclipse SDK
-dev-util/idea-ultimate 2023.2.1.232.9559.62: A complete toolset for web, mobile and enterprise development
+dev-util/idea-ultimate 2023.3.2: A complete toolset for web, mobile and enterprise development
 dev-util/phpstorm 2023.2.2.232.9921.55: PhpStorm
 dev-util/pycharm-community 2020.1-r1: Intelligent Python IDE with unique code assistance and analysis
 dev-util/pycharm-professional 2020.1.2: Intelligent Python IDE with unique code assistance and analysis
