@@ -1,0 +1,14 @@
+BDEPEND=>=dev-lang/go-1.10
+DEFINED_PHASES=compile install test unpack
+DESCRIPTION=Terraform provider to provision infrastructure with Linux's KVM using libvirt
+EAPI=8
+HOMEPAGE=https://github.com/dmacvicar/terraform-provider-libvirt
+INHERIT=golang-build golang-vcs-snapshot
+KEYWORDS=amd64 x86
+LICENSE=Apache 2.0
+RDEPEND=app-emulation/libvirt-glib dev-lang/go app-cdr/cdrtools app-admin/terraform
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/dmacvicar/terraform-provider-libvirt/archive/v0.7.6.tar.gz -> terraform-provider-libvirt-0.7.6.tar.gz
+_eclasses_=golang-base	c544d65ed275ff42a6cefc187d7558fd	golang-build	1306610aed1b55540e8d7dbe40a17e75	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	d309b9713dfc18e754cba88d3ba69653	go-env	bf4ba5591b6664a875934f57a27d3ae3	golang-vcs-snapshot	47175ac6b961c3386cd10cf5704226a4
+_md5_=cdf63114a51a06dcb391897320539fa0

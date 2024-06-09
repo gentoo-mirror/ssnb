@@ -1,0 +1,15 @@
+DEFINED_PHASES=compile configure install prepare test unpack
+DEPEND=dev-lang/go:0=
+DESCRIPTION=Terraform builds, changes, and combines infrastructure safely and efficiently
+EAPI=8
+HOMEPAGE=http://www.terraform.io
+INHERIT=golang-single
+IUSE=zsh-completion fish-completion debug pie test
+KEYWORDS=amd64 x86
+LICENSE=MPL-2.0
+RDEPEND=fish-completion? ( app-shells/fish ) zsh-completion? ( app-shells/zsh )
+RESTRICT=mirror strip
+SLOT=0
+SRC_URI=https://github.com/hashicorp/terraform/archive/v1.8.5.tar.gz -> terraform-1.8.5.tar.gz
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	golang-common	667f47f64b2f4248fb28c20881ae0f10	golang-single	ac5c7ed3d0f7a973504dc807392a7ff3
+_md5_=6dd7de165abaca160c9fabb72627afae
