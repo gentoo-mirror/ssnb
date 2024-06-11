@@ -36,6 +36,9 @@ app-admin/terraform:tls - Builds the provider that provides utilities for workin
 app-admin/terraform:vcd - Builds the provider that is used to interact with the resources supported by VMware vCloud Director http://www.vmware.com/products/vcloud-director/
 app-admin/terraform:vsphere - Builds the provider that interacts with the resources supported by VMware vSphere http://www.vmware.com/products/vsphere
 app-admin/terraform-provider-libvirt:libvirt - Builds the terraform provider for libvirt
+app-containers/containerd:btrfs - Support for BTRFS snapshot driver
+app-containers/containerd:cri - Support for Kubernetes CRI
+app-containers/containerd:device-mapper - Support for device mapper snapshot driver
 app-containers/cri-o:btrfs - Enables dependencies for the "btrfs" graph driver, including necessary kernel flags.
 app-containers/cri-o:device-mapper - Enables dependencies for the "devicemapper" graph driver, including necessary kernel flags.
 app-containers/cri-o:zfs - Enables dependencies for the "zfs" file system.
