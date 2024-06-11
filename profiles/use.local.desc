@@ -36,6 +36,15 @@ app-admin/terraform:tls - Builds the provider that provides utilities for workin
 app-admin/terraform:vcd - Builds the provider that is used to interact with the resources supported by VMware vCloud Director http://www.vmware.com/products/vcloud-director/
 app-admin/terraform:vsphere - Builds the provider that interacts with the resources supported by VMware vSphere http://www.vmware.com/products/vsphere
 app-admin/terraform-provider-libvirt:libvirt - Builds the terraform provider for libvirt
+app-containers/cri-o:btrfs - Enables dependencies for the "btrfs" graph driver, including necessary kernel flags.
+app-containers/cri-o:device-mapper - Enables dependencies for the "devicemapper" graph driver, including necessary kernel flags.
+app-containers/cri-o:zfs - Enables dependencies for the "zfs" file system.
+app-containers/podman:btrfs - Enables btrfs support (graph driver) in Podman
+app-containers/podman:cgroup-hybrid - Use legacy (hybrid) cgroups instead of modern (unified) cgroups
+app-containers/podman:fuse - Enables fuse dependencies (fuse-overlayfs is especially useful for rootless mode).
+app-containers/podman:init - Enables catatonit dependency required for podman run --init.
+app-containers/podman:rootless - Enables dependencies for running in rootless mode.
+app-containers/podman:wrapper - Install wrapper which lets use podman for command `docker`
 dev-java/sbt:binary - Install from (Gentoo-compiled) binary instead of building from sources. Set this when you run out of memory during build.
 dev-util/idea-ultimate:custom-jdk - Install and use IntelliJ's custom JRE.
 dev-util/idea-ultimate:jbr11 - Install and use the Java 11 based version of JetBrains Runtime.

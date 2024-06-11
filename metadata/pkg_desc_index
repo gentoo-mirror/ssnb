@@ -6,6 +6,9 @@ app-admin/nvidia-docker 2.0.3: NVIDIA Docker
 app-admin/terraform 1.8.5: Terraform builds, changes, and combines infrastructure safely and efficiently
 app-admin/terraform-provider-libvirt 0.7.6: Terraform provider to provision infrastructure with Linux's KVM using libvirt
 app-benchmarks/phoronix-test-suite 8.8.1 9.0.1 9999: Phoronix's comprehensive, cross-platform testing and benchmark suite
+app-containers/cni-plugins 1.5.0: Standard networking plugins for container networking
+app-containers/cri-o 1.29.5 1.30.2: OCI-based implementation of Kubernetes Container Runtime Interface
+app-containers/podman 5.1.1 9999: A tool for managing OCI containers and pods with Docker-compatible CLI
 app-crypt/pesign 115: Tools for manipulating signed PE-COFF binaries
 app-editors/visual-studio-code 1.65.2 1.66.1 1.66.2 1.67.1: Multiplatform Visual Studio Code from Microsoft (binary version)
 app-forensics/regviewer 0.1: RegViewer is GTK 2.2 based GUI Windows registry file navigator
