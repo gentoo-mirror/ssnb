@@ -7,6 +7,7 @@ app-admin/terraform 1.8.5: Terraform builds, changes, and combines infrastructur
 app-admin/terraform-provider-libvirt 0.7.6: Terraform provider to provision infrastructure with Linux's KVM using libvirt
 app-benchmarks/phoronix-test-suite 8.8.1 9.0.1 9999: Phoronix's comprehensive, cross-platform testing and benchmark suite
 app-containers/cni-plugins 1.5.0: Standard networking plugins for container networking
+app-containers/containers-common 0.59.1 9999: Common config files and docs for Containers stack
 app-containers/cri-o 1.29.5 1.30.2: OCI-based implementation of Kubernetes Container Runtime Interface
 app-containers/podman 5.1.1 9999: A tool for managing OCI containers and pods with Docker-compatible CLI
 app-crypt/pesign 115: Tools for manipulating signed PE-COFF binaries
@@ -186,6 +187,7 @@ media-libs/wxsvg 1.5.24: C++ library to create, manipulate and render SVG files
 media-video/dvdstyler 3.2.1: A cross-platform free DVD authoring application
 net-misc/megasync 4.5.0.0 9999: The official Qt-based program for syncing your MEGA account in your PC
 net-misc/oidc-agent 4.0.2: Agent and tools for managing OpenID Connect tokens on the command line
+net-misc/passt 2024.06.07 9999: User-mode networking daemons for VMs and namespaces, replacement for Slirp
 net-nds/apachedirectorystudio 2.0.0.20210717.17: Apache Directory Studio is an universal LDAP directory tool.
 sci-mathematics/octave 6.4.0-r2: High-level interactive language for numerical computations
 sys-block/partclone 0.3.12 0.3.18 9999: Partition cloning tool
