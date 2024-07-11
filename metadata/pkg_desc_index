@@ -193,4 +193,3 @@ sci-mathematics/octave 6.4.0-r2: High-level interactive language for numerical c
 sys-block/partclone 0.3.18 0.3.29 9999: Partition cloning tool
 sys-fs/vmfs-tools 0.2.5: Tools for vmfs
 sys-fs/zrep 2.0.2 9999: ZFS based replication and failover solution
-x11-misc/x11vnc 0.9.15: A VNC server for real X displays
