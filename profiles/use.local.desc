@@ -19,8 +19,6 @@ dev-java/sbt:binary - Install from (Gentoo-compiled) binary instead of building 
 dev-util/idea-ultimate:custom-jdk - Install and use IntelliJ's custom JRE.
 dev-util/idea-ultimate:jbr11 - Install and use the Java 11 based version of JetBrains Runtime.
 dev-util/idea-ultimate:jbr8 - Install and use the Java 8 based version of JetBrains Runtime.
-dev-util/pycharm-community:jbr11 - Install and use the Java 11 based version of JetBrains Runtime.
-dev-util/pycharm-professional:jbr11 - Install and use the Java 11 based version of JetBrains Runtime.
 dev-util/rubymine:jbr11 - Install and use the Java 11 based version of JetBrains Runtime.
 media-libs/openimageio:dicom - Enable DICOM medical image file support via sci-libs/dcmtk
 media-libs/openimageio:field3d - Enable f3d file (write) support via media-libs/Field3D
