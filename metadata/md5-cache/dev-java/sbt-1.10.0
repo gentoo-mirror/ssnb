@@ -13,5 +13,5 @@ RDEPEND=>=virtual/jre-1.8 >=dev-lang/scala-2.12.2:2.12 >=dev-java/java-config-2.
 RESTRICT=test
 SLOT=0
 SRC_URI=binary? ( https://github.com/sbt/sbt/releases/download/v1.10.0/sbt-1.10.0.tgz -> sbt-1.10.0.tar.gz )
-_eclasses_=java-utils-2	d2bf348d35fd96d97944269dfbaf0f97	java-pkg-2	b6d755b4f6afabfd933932be28b46368	git-r3	875eb471682d3e1f18da124be97dcc81
+_eclasses_=java-utils-2	2f361564ef86de2315882621bf05eb9c	java-pkg-2	b6d755b4f6afabfd933932be28b46368	git-r3	875eb471682d3e1f18da124be97dcc81
 _md5_=d2143b3045257170c99e78e7c17d7bbe
