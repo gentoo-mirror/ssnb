@@ -9,5 +9,5 @@ LICENSE=EULA
 RDEPEND=app-admin/chrpath x11-libs/libXrandr x11-misc/xdg-utils dev-util/desktop-file-utils net-misc/curl app-arch/xz-utils media-libs/mesa
 SLOT=0
 SRC_URI=amd64? ( https://www.softmaker.net/down/softmaker-freeoffice-2021-1068-amd64.tgz )
-_eclasses_=toolchain-funcs	333970c740aa7b1a92e4fcdc52f612bd	multilib	c19072c3cd7ac5cb21de013f7e9832e0	xdg-utils	baea6080dd821f5562d715887954c9d3	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88
+_eclasses_=toolchain-funcs	948855ec7ad9f11351edf9066708dfa9	multilib	7e1347c006a76bb812f3a9f663b79991	xdg-utils	5465aed08f1dfc2a75f14cbea4272961	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88
 _md5_=7197fc7a83eb672a6e5520d7d72b9d45
