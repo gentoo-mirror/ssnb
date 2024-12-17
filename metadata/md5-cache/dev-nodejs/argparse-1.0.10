@@ -9,5 +9,5 @@ LICENSE=MIT
 RDEPEND=dev-nodejs/sprintf-js
 SLOT=0
 SRC_URI=http://registry.npmjs.org/argparse/-/argparse-1.0.10.tgz
-_eclasses_=multilib	b2a329026f2e404e9e371097dda47f96	toolchain-funcs	fa554cc3cff825d21dfe3f24841e29cf	npm	ab39c1e25db3cb5a1ad5434fbee66416
+_eclasses_=multilib	b2a329026f2e404e9e371097dda47f96	toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	npm	ab39c1e25db3cb5a1ad5434fbee66416
 _md5_=884f22fb26d98c93ff165c9c4ca3c5eb
