@@ -2,7 +2,7 @@ app-admin/enpass 6.8.1.1063: A cross-platform, complete password management solu
 app-admin/keeagent 0.8.1: ssh agent plugin for KeePass 2.x
 app-admin/keepass-plugin-agent 0.13.8: ssh agent plugin for KeePass 2.x
 app-admin/nvidia-docker 2.0.3: NVIDIA Docker
-app-admin/terraform-provider-libvirt 0.7.6: Terraform provider to provision infrastructure with Linux's KVM using libvirt
+app-admin/terraform-provider-libvirt 0.8.3: Terraform provider to provision infrastructure with Linux's KVM using libvirt
 app-benchmarks/phoronix-test-suite 8.8.1 9.0.1 9999: Phoronix's comprehensive, cross-platform testing and benchmark suite
 app-containers/cni-plugins 1.5.0: Standard networking plugins for container networking
 app-containers/containerd 1.7.18: A daemon to control runC
