@@ -159,7 +159,6 @@ dev-ruby/ipaddress 0.8.3 0.14.0: Ruby library designed to make manipulation of I
 dev-ruby/kgio 2.10.0 2.11.3: Mon-blocking I/O methods for Ruby without raising exceptions
 dev-ruby/make 0.3.1: A gem that shortcuts typing out forms and tables for SQL users
 dev-ruby/memcache-client 1.8.5: A Ruby library for accessing memcached
-dev-ruby/mysql 2.9.1: This is the MySQL API module for Ruby
 dev-ruby/parse-cron 0.1.4: Parse a crontab timing specification and determine when the job should be run.
 dev-ruby/rack-protection 3.0.6: This gem protects against typical web attacks
 dev-ruby/raindrops 0.17.0 0.19.1: A real-time stats toolkit to show statistics for Rack HTTP servers
@@ -170,7 +169,6 @@ dev-ruby/ruby_dev 0.1.0: Gem for Ruby development
 dev-ruby/rubygems-update 3.4.13: This is the MySQL API module for Ruby
 dev-ruby/sequel 4.39.0 5.32.0 5.36.0: A lightweight database toolkit for Ruby
 dev-ruby/sinatra 3.0.6: A DSL for quickly creating web applications in Ruby with minimal effort
-dev-ruby/thin 1.8.1: This a Ruby gem that delivers a thin and fast web server
 dev-ruby/tilt 2.2.0: Thin interface over template engines to make their usage as generic as possible
 dev-ruby/treetop 1.6.12: Treetop is a language for describing languages
 dev-ruby/webmock 3.18.1: Allows stubbing HTTP requests and setting expectations on HTTP requests
