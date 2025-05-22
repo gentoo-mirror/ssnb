@@ -20,11 +20,6 @@ dev-util/idea-ultimate:custom-jdk - Install and use IntelliJ's custom JRE.
 dev-util/idea-ultimate:jbr11 - Install and use the Java 11 based version of JetBrains Runtime.
 dev-util/idea-ultimate:jbr8 - Install and use the Java 8 based version of JetBrains Runtime.
 dev-util/rubymine:jbr11 - Install and use the Java 11 based version of JetBrains Runtime.
-media-libs/openimageio:dicom - Enable DICOM medical image file support via sci-libs/dcmtk
-media-libs/openimageio:field3d - Enable f3d file (write) support via media-libs/Field3D
-media-libs/openimageio:opencv - Enable OpenCV support via media-libs/opencv
-media-libs/openimageio:openvdb - Enable OpenVDB support via media-gfx/openvdb
-media-libs/openimageio:ptex - Enable Ptex texture mapping system file support via media-libs/ptex
 net-misc/megasync:cryptopp - Compile with Crypto++ Library.
 net-misc/megasync:dolphin - Upload your files to your Mega account from Dolphin file manager.
 net-misc/megasync:freeimage - Use freeimage to manage graphic images format.
