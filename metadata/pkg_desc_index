@@ -178,8 +178,6 @@ dev-util/eclipse-sdk-bin 4.24.0: Eclipse SDK
 dev-util/idea-ultimate 2023.3.2: A complete toolset for web, mobile and enterprise development
 dev-util/phpstorm 2023.2.2.232.9921.55: PhpStorm
 dev-util/rubymine 2023.2.1: The most intelligent Ruby and Rails IDE
-media-libs/wxsvg 1.5.24: C++ library to create, manipulate and render SVG files
-media-video/dvdstyler 3.2.1: A cross-platform free DVD authoring application
 net-misc/megasync 4.5.0.0 9999: The official Qt-based program for syncing your MEGA account in your PC
 net-misc/oidc-agent 4.0.2: Agent and tools for managing OpenID Connect tokens on the command line
 net-misc/passt 2024.06.07 9999: User-mode networking daemons for VMs and namespaces, replacement for Slirp
