@@ -9,5 +9,5 @@ LICENSE=EUPL
 RDEPEND=sys-apps/pcsc-lite sys-apps/pcsc-tools app-crypt/ccid ( >=virtual/jdk-1.8:1.8 || ( >=dev-java/oracle-jdk-bin-1.8:1.8 dev-java/icedtea dev-java/icedtea-bin ) ) !app-misc/autenticacao-gov-pt:2 !app-misc/autenticacao-gov-pt:3
 SLOT=0
 SRC_URI=https://aplicacoes.autenticacao.gov.pt/plugin/plugin-autenticacao-gov.deb -> autenticacao-gov-pt-2.0.75.deb
-_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	a6df79c1e9bc84369dbf3d44206ac772	unpacker	3b4ee72d1e2e0374fd8cd3eddfa00627	desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	unpacker	3b4ee72d1e2e0374fd8cd3eddfa00627	desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed
 _md5_=1376ddb0a820462546f755386df635b0
