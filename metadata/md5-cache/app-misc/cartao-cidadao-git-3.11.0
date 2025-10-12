@@ -12,5 +12,5 @@ PROPERTIES=live
 RDEPEND=dev-lang/swig sys-devel/qconf dev-libs/xml-security-c >=dev-libs/openssl-1.1.0 >=media-libs/openjpeg-2.4.0 <=media-libs/openjpeg-2.5.0 java? ( dev-java/openjdk:11 ) >=sys-apps/pcsc-lite-1.5.0 sys-apps/pcsc-tools app-crypt/ccid >=dev-qt/qtcore-5 dev-qt/qtchooser dev-libs/xml-security-c dev-libs/xerces-c dev-vcs/subversion >=dev-libs/openssl-1.1.0 app-text/poppler[qt5] dev-libs/libzip net-misc/curl dev-qt/qtgraphicaleffects dev-qt/qtquickcontrols dev-qt/qtquickcontrols2 !app-misc/autenticacao-gov-pt:2 !app-misc/cartao-cidadao-svn
 SLOT=3
 SRC_URI=https://www.autenticacao.gov.pt/documents/10179/11962/Autenticacao.gov_Ubuntu_20_x64.deb
-_eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	unpacker	3b4ee72d1e2e0374fd8cd3eddfa00627
+_eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	unpacker	3b4ee72d1e2e0374fd8cd3eddfa00627
 _md5_=42585e65faedb18545495985e0824f65

@@ -9,5 +9,5 @@ LICENSE=MIT
 RDEPEND=dev-nodejs/expand-brackets dev-nodejs/snapdragon-capture
 SLOT=0
 SRC_URI=http://registry.npmjs.org/extglob/-/extglob-3.0.0.tgz
-_eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	multilib	a199af442898963433d6f038a88cce9c	npm	ab39c1e25db3cb5a1ad5434fbee66416
+_eclasses_=toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	multilib	a199af442898963433d6f038a88cce9c	npm	ab39c1e25db3cb5a1ad5434fbee66416
 _md5_=18c29d7bd1d053b6b6c3e47b1edd5227
